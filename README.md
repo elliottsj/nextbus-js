@@ -1,4 +1,7 @@
 # nextbus-js
+[![npm version](https://img.shields.io/npm/v/nextbus.svg)](https://www.npmjs.com/package/nextbus)
+[![Travis CI Build Status](https://travis-ci.org/elliottsj/nextbus-js.svg?branch=master)](https://travis-ci.org/elliottsj/nextbus-js)
+
 Node.js interface to the [NextBus XML Feed](https://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)
 
 ### Installation
