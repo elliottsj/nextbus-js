@@ -1,4 +1,12 @@
 {
   "parser": "babel-eslint",
-  "extends": "airbnb-base"
+  "extends": "airbnb-base",
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "generator-star-spacing": "off",
+    "no-underscore-dangle": "off",
+    "import/imports-first": "off"
+  }
 }

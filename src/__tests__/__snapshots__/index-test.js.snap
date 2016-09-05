@@ -1,0 +1,352 @@
+exports[`nextbus getAgencies gets agencies 1`] = `
+Array [
+  Object {
+    "regionTitle": "California-Northern",
+    "tag": "actransit",
+    "title": "AC Transit"
+  },
+  Object {
+    "regionTitle": "Maryland",
+    "tag": "jhu-apl",
+    "title": "APL"
+  },
+  Object {
+    "regionTitle": "North Carolina",
+    "tag": "art",
+    "title": "Asheville Redefines Transit"
+  },
+  Object {
+    "regionTitle": "Georgia",
+    "tag": "atlanta-sc",
+    "title": "Atlanta Streetcar - Beta"
+  },
+  Object {
+    "regionTitle": "Massachusetts",
+    "tag": "brockton",
+    "title": "Brockton Area Transit Authority"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "shortTitle": "Camarillo (CAT)",
+    "tag": "camarillo",
+    "title": "Camarillo Area (CAT)"
+  },
+  Object {
+    "regionTitle": "Massachusetts",
+    "shortTitle": "CCRTA",
+    "tag": "ccrta",
+    "title": "Cape Cod Regional Transit Authority"
+  },
+  Object {
+    "regionTitle": "North Carolina",
+    "shortTitle": "Chapel Hill",
+    "tag": "chapel-hill",
+    "title": "Chapel Hill Transit"
+  },
+  Object {
+    "regionTitle": "Massachusetts",
+    "shortTitle": "Charles River EZRide",
+    "tag": "charles-river",
+    "title": "Charles River TMA - EZRide"
+  },
+  Object {
+    "regionTitle": "Maryland",
+    "tag": "charm-city",
+    "title": "Charm City Circulator"
+  },
+  Object {
+    "regionTitle": "New York",
+    "tag": "ccny",
+    "title": "City College NYC"
+  },
+  Object {
+    "regionTitle": "Mississippi",
+    "tag": "oxford-ms",
+    "title": "City of Oxford"
+  },
+  Object {
+    "regionTitle": "Maryland",
+    "tag": "collegetown",
+    "title": "Collegetown Shuttle"
+  },
+  Object {
+    "regionTitle": "Other",
+    "tag": "configdev",
+    "title": "Config Stuff"
+  },
+  Object {
+    "regionTitle": "Iowa",
+    "tag": "cyride",
+    "title": "CyRide"
+  },
+  Object {
+    "regionTitle": "District of Columbia",
+    "tag": "dc-circulator",
+    "title": "DC Circulator"
+  },
+  Object {
+    "regionTitle": "District of Columbia",
+    "tag": "dc-streetcar",
+    "title": "DC Streetcar"
+  },
+  Object {
+    "regionTitle": "New York",
+    "tag": "da",
+    "title": "Downtown Connection"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "shortTitle": "Dumbarton Exp",
+    "tag": "dumbarton",
+    "title": "Dumbarton Express"
+  },
+  Object {
+    "regionTitle": "North Carolina",
+    "tag": "ecu",
+    "title": "East Carolina University"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "tag": "emery",
+    "title": "Emery-Go-Round"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "shortTitle": "eTrans",
+    "tag": "escalon",
+    "title": "Escalon eTrans"
+  },
+  Object {
+    "regionTitle": "Virginia",
+    "tag": "fairfax",
+    "title": "Fairfax (CUE)"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "foothill",
+    "title": "Foothill Transit"
+  },
+  Object {
+    "regionTitle": "Texas",
+    "tag": "ft-worth",
+    "title": "Fort Worth The T"
+  },
+  Object {
+    "regionTitle": "Georgia",
+    "tag": "georgia-college",
+    "title": "Georgia College"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "glendale",
+    "title": "Glendale Beeline"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "south-coast",
+    "title": "Gold Coast Transit"
+  },
+  Object {
+    "regionTitle": "Indiana",
+    "tag": "indianapolis-air",
+    "title": "Indianapolis International Airport"
+  },
+  Object {
+    "regionTitle": "Florida",
+    "shortTitle": "Jacksonville",
+    "tag": "jtafla",
+    "title": "Jacksonville Transportation Authority"
+  },
+  Object {
+    "regionTitle": "Massachusetts",
+    "tag": "lasell",
+    "title": "Lasell College"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "lametro",
+    "title": "Los Angeles Metro"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "lametro-rail",
+    "title": "Los Angeles Rail"
+  },
+  Object {
+    "regionTitle": "Massachusetts",
+    "tag": "mbta",
+    "title": "MBTA"
+  },
+  Object {
+    "regionTitle": "Massachusetts",
+    "shortTitle": "MIT",
+    "tag": "mit",
+    "title": "Massachusetts Institute of Technology"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "tag": "sf-mission-bay",
+    "title": "Mission Bay"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "moorpark",
+    "title": "Moorpark Transit"
+  },
+  Object {
+    "regionTitle": "Florida",
+    "shortTitle": "Nova",
+    "tag": "nova-se",
+    "title": "Nova Southeastern University"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "omnitrans",
+    "title": "Omnitrans"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "pvpta",
+    "title": "Palos Verdes Transit"
+  },
+  Object {
+    "regionTitle": "Florida",
+    "shortTitle": "SRIA",
+    "tag": "sria",
+    "title": "Pensacola Beach (SRIA)"
+  },
+  Object {
+    "regionTitle": "Oregon",
+    "tag": "portland-sc",
+    "title": "Portland Streetcar"
+  },
+  Object {
+    "regionTitle": "Maryland",
+    "tag": "pgc",
+    "title": "Prince Georges County"
+  },
+  Object {
+    "regionTitle": "Nevada",
+    "tag": "reno",
+    "title": "RTC RIDE, Reno"
+  },
+  Object {
+    "regionTitle": "Virginia",
+    "tag": "radford",
+    "title": "Radford Transit"
+  },
+  Object {
+    "regionTitle": "Maryland",
+    "tag": "howard",
+    "title": "Regional Transportation Agency of Central Maryland"
+  },
+  Object {
+    "regionTitle": "New York",
+    "tag": "roosevelt",
+    "title": "Roosevelt Island"
+  },
+  Object {
+    "regionTitle": "New Jersey",
+    "shortTitle": "Rutgers Newark Shuttle",
+    "tag": "rutgers-newark",
+    "title": "Rutgers Univ. Newark College Town Shuttle"
+  },
+  Object {
+    "regionTitle": "New Jersey",
+    "shortTitle": "Rutgers",
+    "tag": "rutgers",
+    "title": "Rutgers University"
+  },
+  Object {
+    "regionTitle": "Pennsylvania",
+    "tag": "septa",
+    "title": "SEPTA"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "shortTitle": "SF Muni",
+    "tag": "sf-muni",
+    "title": "San Francisco Muni"
+  },
+  Object {
+    "regionTitle": "Washington",
+    "tag": "seattle-sc",
+    "title": "Seattle Streetcar"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "tag": "simi-valley",
+    "title": "Simi Valley (SVT)"
+  },
+  Object {
+    "regionTitle": "Quebec",
+    "shortTitle": "Laval",
+    "tag": "stl",
+    "title": "Societe de transport de Laval"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "tag": "sct",
+    "title": "Sonoma County Transit"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "shortTitle": "Thousand Oaks Transit",
+    "tag": "thousand-oaks",
+    "title": "Thousand Oaks Transit (TOT)"
+  },
+  Object {
+    "regionTitle": "Ontario",
+    "tag": "thunderbay",
+    "title": "Thunder Bay"
+  },
+  Object {
+    "regionTitle": "Ontario",
+    "shortTitle": "Toronto TTC",
+    "tag": "ttc",
+    "title": "Toronto Transit Commission"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "shortTitle": "Unitrans",
+    "tag": "unitrans",
+    "title": "Unitrans ASUCD/City of Davis"
+  },
+  Object {
+    "regionTitle": "California-Northern",
+    "tag": "ucsf",
+    "title": "University of California San Francisco"
+  },
+  Object {
+    "regionTitle": "Maryland",
+    "tag": "umd",
+    "title": "University of Maryland"
+  },
+  Object {
+    "regionTitle": "Minnesota",
+    "tag": "umn-twin",
+    "title": "University of Minnesota"
+  },
+  Object {
+    "regionTitle": "California-Southern",
+    "shortTitle": "Ventura (VCTC)",
+    "tag": "vista",
+    "title": "Ventura Intercity (VCTC)"
+  },
+  Object {
+    "regionTitle": "Kentucky",
+    "tag": "wku",
+    "title": "Western Kentucky University"
+  },
+  Object {
+    "regionTitle": "North Carolina",
+    "tag": "winston-salem",
+    "title": "Winston-Salem"
+  },
+  Object {
+    "regionTitle": "Pennsylvania",
+    "tag": "york-pa",
+    "title": "York College"
+  }
+]
+`;
