@@ -57,5 +57,14 @@ export default function nextbus({
       });
       return xml.body.agency.map(node => node.$);
     },
+    async getRoutes(agencyTag: string) {
+      const xml = await fetchNextBusXML({
+        command: 'routeList',
+        host,
+        protocol,
+        query: { a: agencyTag },
+      });
+      return xml.body.route.map(node => node.$);
+    },
   };
 }

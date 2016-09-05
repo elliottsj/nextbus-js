@@ -2,14 +2,13 @@
 
 let mockText = '';
 
-async function fetch() {
-  return await {
-    async text() {
-      return mockText;
-    },
-  };
-}
+const fetch = jest.fn(async () => Promise.resolve({
+  async text() {
+    return mockText;
+  },
+}));
 
+// $FlowIgnore
 fetch.__setMockText = (text) => {
   mockText = text;
 };
