@@ -1,6 +1,6 @@
 {
   "name": "nextbus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node.js interface to the NextBus XML Feed",
   "main": "lib/index.js",
   "scripts": {
