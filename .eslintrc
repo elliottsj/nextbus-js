@@ -1,12 +1,16 @@
 {
   "parser": "babel-eslint",
   "extends": "airbnb-base",
+  "plugins": [
+    "flowtype"
+  ],
   "env": {
     "jest": true
   },
   "rules": {
     "generator-star-spacing": "off",
     "no-underscore-dangle": "off",
+    "flowtype/define-flow-type": "error",
     "import/imports-first": "off"
   }
 }

@@ -40,6 +40,7 @@
     "del-cli": "^0.2.0",
     "eslint": "^3.4.0",
     "eslint-config-airbnb-base": "^5.0.3",
+    "eslint-plugin-flowtype": "^2.15.0",
     "eslint-plugin-import": "^1.14.0",
     "flow-bin": "^0.32.0",
     "flow-typed": "^2.0.0-beta.6",
