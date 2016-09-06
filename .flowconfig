@@ -1,11 +1,11 @@
 [ignore]
+<PROJECT_ROOT>/lib/.*
 .*/node_modules/fbjs/.*
 .*/node_modules/flow-typed/.*
 
 [include]
 
 [libs]
-interfaces/
 
 [options]
 suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe

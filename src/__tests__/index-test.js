@@ -1,6 +1,6 @@
 // @flow
 
-import fetch from 'isomorphic-fetch';
+import fetch, { __setMockText as setFetchMockText } from 'isomorphic-fetch';
 import nextbus from '..';
 
 import agencyListXML from '../__fixtures__/agencyList';
@@ -16,7 +16,7 @@ describe('nextbus', () => {
 
   describe('getAgencies', () => {
     it('gets agencies', async () => {
-      fetch.__setMockText(agencyListXML);
+      setFetchMockText(agencyListXML);
       const agencies = await nb.getAgencies();
       expect(fetch).lastCalledWith('http://webservices.nextbus.com/service/publicXMLFeed?command=agencyList');
       expect(agencies).toMatchSnapshot();
@@ -25,7 +25,7 @@ describe('nextbus', () => {
 
   describe('getRoute', () => {
     it('gets a route config', async () => {
-      fetch.__setMockText(routeConfigXML);
+      setFetchMockText(routeConfigXML);
       const routes = await nb.getRoute('ttc', '506');
       expect(fetch).lastCalledWith('http://webservices.nextbus.com/service/publicXMLFeed?command=routeConfig&a=ttc&r=506');
       expect(routes).toMatchSnapshot();
@@ -34,7 +34,7 @@ describe('nextbus', () => {
 
   describe('getRoutes', () => {
     it('gets routes', async () => {
-      fetch.__setMockText(routeListXML);
+      setFetchMockText(routeListXML);
       const routes = await nb.getRoutes('ttc');
       expect(fetch).lastCalledWith('http://webservices.nextbus.com/service/publicXMLFeed?command=routeList&a=ttc');
       expect(routes).toMatchSnapshot();

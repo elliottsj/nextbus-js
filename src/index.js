@@ -4,6 +4,56 @@ import fetch from 'isomorphic-fetch';
 import url from 'url';
 import parseXML from './parseXML';
 
+export type Agency = {
+  regionTitle: string,
+  shortTitle?: string,
+  tag: string,
+  title: string,
+};
+
+export type Stop = {
+  lat: number,
+  lon: number,
+  shortTitle?: string,
+  stopId?: string,
+  tag: string,
+  title: string,
+};
+
+export type Direction = {
+  name: string,
+  stops: Stop[],
+  tag: string,
+  title: string,
+  useForUI: boolean,
+};
+
+export type Point = {
+  lat: number,
+  lon: number,
+};
+
+export type Path = Point[];
+
+export type Route = {
+  tag: string,
+  title: string,
+};
+
+export type RouteConfig = Route & {
+  color: string,
+  directions: Direction[],
+  latMax: string,
+  latMin: string,
+  lonMax: string,
+  lonMin: string,
+  oppositeColor: string,
+  paths: Path[],
+  shortTitle?: string,
+  stops: Stop[],
+};
+
+
 /**
  * Fetch from the NextBus XML Feed using the given command, host, protocol, and query parameters,
  * and parse the resulting XML.

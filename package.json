@@ -4,9 +4,10 @@
   "description": "Node.js interface to the NextBus XML Feed",
   "main": "lib/index.js",
   "scripts": {
-    "build": "del ./lib && babel src --out-dir lib",
-    "build:develop": "npm run build -- --watch",
+    "babel": "babel src --out-dir lib",
+    "build": "del ./lib && npm run babel && npm run flow:gen-flow-files",
     "flow": "flow",
+    "flow:gen-flow-files": "for file in src/*.js; do flow gen-flow-files $file --out-dir lib; done",
     "flow-typed": "flow-typed",
     "jest": "jest",
     "lint": "eslint src",
