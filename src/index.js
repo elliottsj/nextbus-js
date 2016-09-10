@@ -60,19 +60,22 @@ export type RouteConfig = Route & {
  */
 type FetchNextBusXMLOptions = {
   command: string,
-  host?: string,
-  protocol?: string,
+  host: string,
+  onRequest: (uri: string) => void,
+  protocol: string,
   query?: { [key: string]: string },
 };
 async function fetchNextBusXML(
-  { command, host, protocol, query }: FetchNextBusXMLOptions
+  { command, host, onRequest, protocol, query }: FetchNextBusXMLOptions
 ) {
-  const response = await fetch(url.format({
+  const uri = url.format({
     host,
     protocol,
     pathname: '/service/publicXMLFeed',
     query: { command, ...query },
-  }));
+  });
+  onRequest(uri);
+  const response = await fetch(uri);
   return await parseXML(await response.text());
 }
 
@@ -82,10 +85,12 @@ async function fetchNextBusXML(
  */
 type NextBusOptions = {
   host?: string,
+  onRequest?: (uri: string) => void,
   protocol?: string,
 };
 export default function nextbus({
   host = 'webservices.nextbus.com',
+  onRequest = () => {},
   protocol = 'http:',
 }: NextBusOptions = {}) {
   return {
@@ -93,6 +98,7 @@ export default function nextbus({
       const xml = await fetchNextBusXML({
         command: 'agencyList',
         host,
+        onRequest,
         protocol,
       });
       return xml.body.agency.map(node => node.$);
@@ -106,6 +112,7 @@ export default function nextbus({
       const xml = await fetchNextBusXML({
         command: 'routeConfig',
         host,
+        onRequest,
         protocol,
         query: {
           a: agencyTag,
@@ -147,6 +154,7 @@ export default function nextbus({
       const xml = await fetchNextBusXML({
         command: 'routeList',
         host,
+        onRequest,
         protocol,
         query: { a: agencyTag },
       });
