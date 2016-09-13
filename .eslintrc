@@ -8,6 +8,7 @@
     "jest": true
   },
   "rules": {
+    "arrow-parens": "off",
     "generator-star-spacing": "off",
     "no-underscore-dangle": "off",
     "flowtype/define-flow-type": "error",
