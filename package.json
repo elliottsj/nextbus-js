@@ -45,15 +45,15 @@
     "flow-bin": "^0.32.0",
     "jest-cli": "^15.1.1"
   },
-  "jest": {
-    "testPathDirs": [
-      "<rootDir>/src"
-    ]
-  },
   "dependencies": {
     "babel-runtime": "^6.11.6",
     "isomorphic-fetch": "^2.2.1",
     "pify": "^2.3.0",
     "xml2js": "^0.4.17"
+  },
+  "jest": {
+    "testPathDirs": [
+      "<rootDir>/src"
+    ]
   }
 }
