@@ -3,351 +3,351 @@ Array [
   Object {
     "regionTitle": "California-Northern",
     "tag": "actransit",
-    "title": "AC Transit"
+    "title": "AC Transit",
   },
   Object {
     "regionTitle": "Maryland",
     "tag": "jhu-apl",
-    "title": "APL"
+    "title": "APL",
   },
   Object {
     "regionTitle": "North Carolina",
     "tag": "art",
-    "title": "Asheville Redefines Transit"
+    "title": "Asheville Redefines Transit",
   },
   Object {
     "regionTitle": "Georgia",
     "tag": "atlanta-sc",
-    "title": "Atlanta Streetcar - Beta"
+    "title": "Atlanta Streetcar - Beta",
   },
   Object {
     "regionTitle": "Massachusetts",
     "tag": "brockton",
-    "title": "Brockton Area Transit Authority"
+    "title": "Brockton Area Transit Authority",
   },
   Object {
     "regionTitle": "California-Southern",
     "shortTitle": "Camarillo (CAT)",
     "tag": "camarillo",
-    "title": "Camarillo Area (CAT)"
+    "title": "Camarillo Area (CAT)",
   },
   Object {
     "regionTitle": "Massachusetts",
     "shortTitle": "CCRTA",
     "tag": "ccrta",
-    "title": "Cape Cod Regional Transit Authority"
+    "title": "Cape Cod Regional Transit Authority",
   },
   Object {
     "regionTitle": "North Carolina",
     "shortTitle": "Chapel Hill",
     "tag": "chapel-hill",
-    "title": "Chapel Hill Transit"
+    "title": "Chapel Hill Transit",
   },
   Object {
     "regionTitle": "Massachusetts",
     "shortTitle": "Charles River EZRide",
     "tag": "charles-river",
-    "title": "Charles River TMA - EZRide"
+    "title": "Charles River TMA - EZRide",
   },
   Object {
     "regionTitle": "Maryland",
     "tag": "charm-city",
-    "title": "Charm City Circulator"
+    "title": "Charm City Circulator",
   },
   Object {
     "regionTitle": "New York",
     "tag": "ccny",
-    "title": "City College NYC"
+    "title": "City College NYC",
   },
   Object {
     "regionTitle": "Mississippi",
     "tag": "oxford-ms",
-    "title": "City of Oxford"
+    "title": "City of Oxford",
   },
   Object {
     "regionTitle": "Maryland",
     "tag": "collegetown",
-    "title": "Collegetown Shuttle"
+    "title": "Collegetown Shuttle",
   },
   Object {
     "regionTitle": "Other",
     "tag": "configdev",
-    "title": "Config Stuff"
+    "title": "Config Stuff",
   },
   Object {
     "regionTitle": "Iowa",
     "tag": "cyride",
-    "title": "CyRide"
+    "title": "CyRide",
   },
   Object {
     "regionTitle": "District of Columbia",
     "tag": "dc-circulator",
-    "title": "DC Circulator"
+    "title": "DC Circulator",
   },
   Object {
     "regionTitle": "District of Columbia",
     "tag": "dc-streetcar",
-    "title": "DC Streetcar"
+    "title": "DC Streetcar",
   },
   Object {
     "regionTitle": "New York",
     "tag": "da",
-    "title": "Downtown Connection"
+    "title": "Downtown Connection",
   },
   Object {
     "regionTitle": "California-Northern",
     "shortTitle": "Dumbarton Exp",
     "tag": "dumbarton",
-    "title": "Dumbarton Express"
+    "title": "Dumbarton Express",
   },
   Object {
     "regionTitle": "North Carolina",
     "tag": "ecu",
-    "title": "East Carolina University"
+    "title": "East Carolina University",
   },
   Object {
     "regionTitle": "California-Northern",
     "tag": "emery",
-    "title": "Emery-Go-Round"
+    "title": "Emery-Go-Round",
   },
   Object {
     "regionTitle": "California-Northern",
     "shortTitle": "eTrans",
     "tag": "escalon",
-    "title": "Escalon eTrans"
+    "title": "Escalon eTrans",
   },
   Object {
     "regionTitle": "Virginia",
     "tag": "fairfax",
-    "title": "Fairfax (CUE)"
+    "title": "Fairfax (CUE)",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "foothill",
-    "title": "Foothill Transit"
+    "title": "Foothill Transit",
   },
   Object {
     "regionTitle": "Texas",
     "tag": "ft-worth",
-    "title": "Fort Worth The T"
+    "title": "Fort Worth The T",
   },
   Object {
     "regionTitle": "Georgia",
     "tag": "georgia-college",
-    "title": "Georgia College"
+    "title": "Georgia College",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "glendale",
-    "title": "Glendale Beeline"
+    "title": "Glendale Beeline",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "south-coast",
-    "title": "Gold Coast Transit"
+    "title": "Gold Coast Transit",
   },
   Object {
     "regionTitle": "Indiana",
     "tag": "indianapolis-air",
-    "title": "Indianapolis International Airport"
+    "title": "Indianapolis International Airport",
   },
   Object {
     "regionTitle": "Florida",
     "shortTitle": "Jacksonville",
     "tag": "jtafla",
-    "title": "Jacksonville Transportation Authority"
+    "title": "Jacksonville Transportation Authority",
   },
   Object {
     "regionTitle": "Massachusetts",
     "tag": "lasell",
-    "title": "Lasell College"
+    "title": "Lasell College",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "lametro",
-    "title": "Los Angeles Metro"
+    "title": "Los Angeles Metro",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "lametro-rail",
-    "title": "Los Angeles Rail"
+    "title": "Los Angeles Rail",
   },
   Object {
     "regionTitle": "Massachusetts",
     "tag": "mbta",
-    "title": "MBTA"
+    "title": "MBTA",
   },
   Object {
     "regionTitle": "Massachusetts",
     "shortTitle": "MIT",
     "tag": "mit",
-    "title": "Massachusetts Institute of Technology"
+    "title": "Massachusetts Institute of Technology",
   },
   Object {
     "regionTitle": "California-Northern",
     "tag": "sf-mission-bay",
-    "title": "Mission Bay"
+    "title": "Mission Bay",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "moorpark",
-    "title": "Moorpark Transit"
+    "title": "Moorpark Transit",
   },
   Object {
     "regionTitle": "Florida",
     "shortTitle": "Nova",
     "tag": "nova-se",
-    "title": "Nova Southeastern University"
+    "title": "Nova Southeastern University",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "omnitrans",
-    "title": "Omnitrans"
+    "title": "Omnitrans",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "pvpta",
-    "title": "Palos Verdes Transit"
+    "title": "Palos Verdes Transit",
   },
   Object {
     "regionTitle": "Florida",
     "shortTitle": "SRIA",
     "tag": "sria",
-    "title": "Pensacola Beach (SRIA)"
+    "title": "Pensacola Beach (SRIA)",
   },
   Object {
     "regionTitle": "Oregon",
     "tag": "portland-sc",
-    "title": "Portland Streetcar"
+    "title": "Portland Streetcar",
   },
   Object {
     "regionTitle": "Maryland",
     "tag": "pgc",
-    "title": "Prince Georges County"
+    "title": "Prince Georges County",
   },
   Object {
     "regionTitle": "Nevada",
     "tag": "reno",
-    "title": "RTC RIDE, Reno"
+    "title": "RTC RIDE, Reno",
   },
   Object {
     "regionTitle": "Virginia",
     "tag": "radford",
-    "title": "Radford Transit"
+    "title": "Radford Transit",
   },
   Object {
     "regionTitle": "Maryland",
     "tag": "howard",
-    "title": "Regional Transportation Agency of Central Maryland"
+    "title": "Regional Transportation Agency of Central Maryland",
   },
   Object {
     "regionTitle": "New York",
     "tag": "roosevelt",
-    "title": "Roosevelt Island"
+    "title": "Roosevelt Island",
   },
   Object {
     "regionTitle": "New Jersey",
     "shortTitle": "Rutgers Newark Shuttle",
     "tag": "rutgers-newark",
-    "title": "Rutgers Univ. Newark College Town Shuttle"
+    "title": "Rutgers Univ. Newark College Town Shuttle",
   },
   Object {
     "regionTitle": "New Jersey",
     "shortTitle": "Rutgers",
     "tag": "rutgers",
-    "title": "Rutgers University"
+    "title": "Rutgers University",
   },
   Object {
     "regionTitle": "Pennsylvania",
     "tag": "septa",
-    "title": "SEPTA"
+    "title": "SEPTA",
   },
   Object {
     "regionTitle": "California-Northern",
     "shortTitle": "SF Muni",
     "tag": "sf-muni",
-    "title": "San Francisco Muni"
+    "title": "San Francisco Muni",
   },
   Object {
     "regionTitle": "Washington",
     "tag": "seattle-sc",
-    "title": "Seattle Streetcar"
+    "title": "Seattle Streetcar",
   },
   Object {
     "regionTitle": "California-Southern",
     "tag": "simi-valley",
-    "title": "Simi Valley (SVT)"
+    "title": "Simi Valley (SVT)",
   },
   Object {
     "regionTitle": "Quebec",
     "shortTitle": "Laval",
     "tag": "stl",
-    "title": "Societe de transport de Laval"
+    "title": "Societe de transport de Laval",
   },
   Object {
     "regionTitle": "California-Northern",
     "tag": "sct",
-    "title": "Sonoma County Transit"
+    "title": "Sonoma County Transit",
   },
   Object {
     "regionTitle": "California-Southern",
     "shortTitle": "Thousand Oaks Transit",
     "tag": "thousand-oaks",
-    "title": "Thousand Oaks Transit (TOT)"
+    "title": "Thousand Oaks Transit (TOT)",
   },
   Object {
     "regionTitle": "Ontario",
     "tag": "thunderbay",
-    "title": "Thunder Bay"
+    "title": "Thunder Bay",
   },
   Object {
     "regionTitle": "Ontario",
     "shortTitle": "Toronto TTC",
     "tag": "ttc",
-    "title": "Toronto Transit Commission"
+    "title": "Toronto Transit Commission",
   },
   Object {
     "regionTitle": "California-Northern",
     "shortTitle": "Unitrans",
     "tag": "unitrans",
-    "title": "Unitrans ASUCD/City of Davis"
+    "title": "Unitrans ASUCD/City of Davis",
   },
   Object {
     "regionTitle": "California-Northern",
     "tag": "ucsf",
-    "title": "University of California San Francisco"
+    "title": "University of California San Francisco",
   },
   Object {
     "regionTitle": "Maryland",
     "tag": "umd",
-    "title": "University of Maryland"
+    "title": "University of Maryland",
   },
   Object {
     "regionTitle": "Minnesota",
     "tag": "umn-twin",
-    "title": "University of Minnesota"
+    "title": "University of Minnesota",
   },
   Object {
     "regionTitle": "California-Southern",
     "shortTitle": "Ventura (VCTC)",
     "tag": "vista",
-    "title": "Ventura Intercity (VCTC)"
+    "title": "Ventura Intercity (VCTC)",
   },
   Object {
     "regionTitle": "Kentucky",
     "tag": "wku",
-    "title": "Western Kentucky University"
+    "title": "Western Kentucky University",
   },
   Object {
     "regionTitle": "North Carolina",
     "tag": "winston-salem",
-    "title": "Winston-Salem"
+    "title": "Winston-Salem",
   },
   Object {
     "regionTitle": "Pennsylvania",
     "tag": "york-pa",
-    "title": "York College"
-  }
+    "title": "York College",
+  },
 ]
 `;
 
@@ -364,327 +364,327 @@ Object {
           "lon": -79.3018,
           "stopId": "14741",
           "tag": "14260",
-          "title": "Main Street Station"
+          "title": "Main Street Station",
         },
         Object {
           "lat": 43.6882999,
           "lon": -79.3019999,
           "stopId": "1263",
           "tag": "3867",
-          "title": "Main St At Danforth Ave"
+          "title": "Main St At Danforth Ave",
         },
         Object {
           "lat": 43.68417,
           "lon": -79.3002999,
           "stopId": "13923",
           "tag": "553",
-          "title": "Main St At Gerrard St East"
+          "title": "Main St At Gerrard St East",
         },
         Object {
           "lat": 43.68346,
           "lon": -79.3027399,
           "stopId": "1126",
           "tag": "800",
-          "title": "Gerrard St East At Norwood Rd"
+          "title": "Gerrard St East At Norwood Rd",
         },
         Object {
           "lat": 43.68276,
           "lon": -79.3058899,
           "stopId": "1119",
           "tag": "8056",
-          "title": "Gerrard St East At Glenmount Park Rd"
+          "title": "Gerrard St East At Glenmount Park Rd",
         },
         Object {
           "lat": 43.6820899,
           "lon": -79.3082899,
           "stopId": "1121",
           "tag": "4414",
-          "title": "Gerrard St East At Golfview Ave"
+          "title": "Gerrard St East At Golfview Ave",
         },
         Object {
           "lat": 43.68097,
           "lon": -79.3105099,
           "stopId": "1128",
           "tag": "2621",
-          "title": "Gerrard St East At Woodbine Ave"
+          "title": "Gerrard St East At Woodbine Ave",
         },
         Object {
           "lat": 43.67985,
           "lon": -79.3126599,
           "stopId": "1123",
           "tag": "1268",
-          "title": "Gerrard St East At Kingsmount Park Rd"
+          "title": "Gerrard St East At Kingsmount Park Rd",
         },
         Object {
           "lat": 43.6781699,
           "lon": -79.31492,
           "stopId": "1116",
           "tag": "6656",
-          "title": "Gerrard St East At Bowmore Rd"
+          "title": "Gerrard St East At Bowmore Rd",
         },
         Object {
           "lat": 43.6762799,
           "lon": -79.31688,
           "stopId": "1114",
           "tag": "4443",
-          "title": "Gerrard St East At Beaton Ave"
+          "title": "Gerrard St East At Beaton Ave",
         },
         Object {
           "lat": 43.6755499,
           "lon": -79.3200199,
           "stopId": "1117",
           "tag": "4650",
-          "title": "Gerrard St East At Coxwell Ave"
+          "title": "Gerrard St East At Coxwell Ave",
         },
         Object {
           "lat": 43.6731199,
           "lon": -79.31943,
           "stopId": "1794",
           "tag": "10283",
-          "title": "Coxwell Ave At Lower Gerrard St East"
+          "title": "Coxwell Ave At Lower Gerrard St East",
         },
         Object {
           "lat": 43.6723899,
           "lon": -79.32171,
           "stopId": "1079",
           "tag": "2048",
-          "title": "Gerrard St East At Ashdale Ave"
+          "title": "Gerrard St East At Ashdale Ave",
         },
         Object {
           "lat": 43.6716899,
           "lon": -79.32479,
           "stopId": "1091",
           "tag": "6873",
-          "title": "Gerrard St East At Highfield Rd"
+          "title": "Gerrard St East At Highfield Rd",
         },
         Object {
           "lat": 43.6709999,
           "lon": -79.32785,
           "stopId": "1090",
           "tag": "4325",
-          "title": "Gerrard St East At Greenwood Ave"
+          "title": "Gerrard St East At Greenwood Ave",
         },
         Object {
           "lat": 43.6704499,
           "lon": -79.33034,
           "stopId": "1103",
           "tag": "1123",
-          "title": "Gerrard St East At Prust Ave"
+          "title": "Gerrard St East At Prust Ave",
         },
         Object {
           "lat": 43.6698799,
           "lon": -79.33293,
           "stopId": "1095",
           "tag": "7935",
-          "title": "Gerrard St East At Leslie St"
+          "title": "Gerrard St East At Leslie St",
         },
         Object {
           "lat": 43.66933,
           "lon": -79.3354199,
           "stopId": "1093",
           "tag": "3292",
-          "title": "Gerrard St East At Jones Ave"
+          "title": "Gerrard St East At Jones Ave",
         },
         Object {
           "lat": 43.66886,
           "lon": -79.3374499,
           "stopId": "1099",
           "tag": "971",
-          "title": "Gerrard St East At Marjory Ave"
+          "title": "Gerrard St East At Marjory Ave",
         },
         Object {
           "lat": 43.6682299,
           "lon": -79.34025,
           "stopId": "1101",
           "tag": "3164",
-          "title": "Gerrard St East At Pape Ave"
+          "title": "Gerrard St East At Pape Ave",
         },
         Object {
           "lat": 43.6677299,
           "lon": -79.34251,
           "stopId": "1084",
           "tag": "8702",
-          "title": "Gerrard St East At Carlaw Ave"
+          "title": "Gerrard St East At Carlaw Ave",
         },
         Object {
           "lat": 43.66717,
           "lon": -79.3450699,
           "stopId": "1097",
           "tag": "10019",
-          "title": "Gerrard St East At Logan Ave"
+          "title": "Gerrard St East At Logan Ave",
         },
         Object {
           "lat": 43.6664199,
           "lon": -79.34841,
           "stopId": "1086",
           "tag": "7703",
-          "title": "Gerrard St East At Degrassi St"
+          "title": "Gerrard St East At Degrassi St",
         },
         Object {
           "lat": 43.6655599,
           "lon": -79.35236,
           "stopId": "1082",
           "tag": "4575",
-          "title": "Gerrard St East At Broadview Ave"
+          "title": "Gerrard St East At Broadview Ave",
         },
         Object {
           "lat": 43.66498,
           "lon": -79.3548999,
           "stopId": "1108",
           "tag": "8991",
-          "title": "Gerrard St East At St Matthews Rd"
+          "title": "Gerrard St East At St Matthews Rd",
         },
         Object {
           "lat": 43.6638,
           "lon": -79.3590699,
           "stopId": "1105",
           "tag": "7379",
-          "title": "Gerrard St East At River St"
+          "title": "Gerrard St East At River St",
         },
         Object {
           "lat": 43.6632599,
           "lon": -79.36125,
           "stopId": "1110",
           "tag": "2976",
-          "title": "Gerrard St East At Sumach St"
+          "title": "Gerrard St East At Sumach St",
         },
         Object {
           "lat": 43.6626899,
           "lon": -79.36389,
           "stopId": "1107",
           "tag": "2615",
-          "title": "Gerrard St East At Sackville St"
+          "title": "Gerrard St East At Sackville St",
         },
         Object {
           "lat": 43.6620599,
           "lon": -79.36677,
           "stopId": "1102",
           "tag": "7132",
-          "title": "Gerrard St East At Parliament St"
+          "title": "Gerrard St East At Parliament St",
         },
         Object {
           "lat": 43.66407,
           "lon": -79.36783,
           "stopId": "1451",
           "tag": "614",
-          "title": "Parliament St At Carlton St"
+          "title": "Parliament St At Carlton St",
         },
         Object {
           "lat": 43.66383,
           "lon": -79.3703599,
           "stopId": "0756",
           "tag": "1694",
-          "title": "Carlton St At Ontario St"
+          "title": "Carlton St At Ontario St",
         },
         Object {
           "lat": 43.6632899,
           "lon": -79.3729,
           "stopId": "0759",
           "tag": "2737",
-          "title": "Carlton St At Sherbourne St"
+          "title": "Carlton St At Sherbourne St",
         },
         Object {
           "lat": 43.6625099,
           "lon": -79.37657,
           "stopId": "0754",
           "tag": "4797",
-          "title": "Carlton St At Jarvis St"
+          "title": "Carlton St At Jarvis St",
         },
         Object {
           "lat": 43.662,
           "lon": -79.3791099,
           "stopId": "0752",
           "tag": "1016",
-          "title": "Carlton St At Church St"
+          "title": "Carlton St At Church St",
         },
         Object {
           "lat": 43.6614499,
           "lon": -79.38295,
           "stopId": "0760",
           "tag": "3548",
-          "title": "Carlton St At Yonge St (College Station)"
+          "title": "Carlton St At Yonge St (College Station)",
         },
         Object {
           "lat": 43.6585899,
           "lon": -79.3850099,
           "stopId": "0249",
           "tag": "2200",
-          "title": "Bay St At Gerrard St West"
+          "title": "Bay St At Gerrard St West",
         },
         Object {
           "lat": 43.6574099,
           "lon": -79.3845299,
           "stopId": "0245",
           "tag": "7967",
-          "title": "Bay St At Elm St"
+          "title": "Bay St At Elm St",
         },
         Object {
           "lat": 43.6558399,
           "lon": -79.3838599,
           "stopId": "0242",
           "tag": "7505",
-          "title": "Bay St At Dundas St West (Toronto Coach Terminal)"
+          "title": "Bay St At Dundas St West (Toronto Coach Terminal)",
         },
         Object {
           "lat": 43.6553399,
           "lon": -79.38587,
           "stopId": "2154",
           "tag": "7264",
-          "title": "Dundas St West At Chestnut St"
+          "title": "Dundas St West At Chestnut St",
         },
         Object {
           "lat": 43.6548999,
           "lon": -79.38786,
           "stopId": "2194",
           "tag": "9824",
-          "title": "Dundas St West At University Ave (St Patrick Station)"
+          "title": "Dundas St West At University Ave (St Patrick Station)",
         },
         Object {
           "lat": 43.6544099,
           "lon": -79.39122,
           "stopId": "2174",
           "tag": "6087",
-          "title": "Dundas St West At McCaul St"
+          "title": "Dundas St West At McCaul St",
         },
         Object {
           "lat": 43.6538899,
           "lon": -79.39372,
           "stopId": "2147",
           "tag": "2368",
-          "title": "Dundas St West At Beverley St"
+          "title": "Dundas St West At Beverley St",
         },
         Object {
           "lat": 43.65341,
           "lon": -79.3960399,
           "stopId": "2169",
           "tag": "7867",
-          "title": "Dundas St West At Huron St"
+          "title": "Dundas St West At Huron St",
         },
         Object {
           "lat": 43.6530599,
           "lon": -79.39771,
           "stopId": "2190",
           "tag": "1212",
-          "title": "Dundas St West At Spadina Ave"
+          "title": "Dundas St West At Spadina Ave",
         },
         Object {
           "lat": 43.65342,
           "lon": -79.39802,
           "stopId": "7349",
           "tag": "1138",
-          "title": "Spadina Ave At Dundas St West North Side"
+          "title": "Spadina Ave At Dundas St West North Side",
         },
         Object {
           "lat": 43.6556699,
           "lon": -79.39889,
           "stopId": "11986",
           "tag": "6577",
-          "title": "Spadina Ave At Nassau St"
-        }
+          "title": "Spadina Ave At Nassau St",
+        },
       ],
       "tag": "506_1_506strcon",
       "title": "West - 506 Carlton towards McCaul",
-      "useForUI": true
+      "useForUI": true,
     },
     Object {
       "branch": "506",
@@ -695,445 +695,445 @@ Object {
           "lon": -79.46641,
           "stopId": "14695",
           "tag": "14215",
-          "title": "High Park Station"
+          "title": "High Park Station",
         },
         Object {
           "lat": 43.65089,
           "lon": -79.45847,
           "stopId": "11781",
           "tag": "8881",
-          "title": "Parkside Dr At Indian Valley Cres South Side"
+          "title": "Parkside Dr At Indian Valley Cres South Side",
         },
         Object {
           "lat": 43.64905,
           "lon": -79.4574199,
           "stopId": "1152",
           "tag": "8673",
-          "title": "Howard Park Ave At Parkside Dr East Side"
+          "title": "Howard Park Ave At Parkside Dr East Side",
         },
         Object {
           "lat": 43.65057,
           "lon": -79.4550999,
           "stopId": "1150",
           "tag": "2958",
-          "title": "Howard Park Ave At Indian Rd"
+          "title": "Howard Park Ave At Indian Rd",
         },
         Object {
           "lat": 43.6512999,
           "lon": -79.45092,
           "stopId": "4578",
           "tag": "9383",
-          "title": "Roncesvalles Ave At Howard Park Ave"
+          "title": "Roncesvalles Ave At Howard Park Ave",
         },
         Object {
           "lat": 43.6514299,
           "lon": -79.45117,
           "stopId": "1154",
           "tag": "8763",
-          "title": "Howard Park Ave At Roncesvalles Ave"
+          "title": "Howard Park Ave At Roncesvalles Ave",
         },
         Object {
           "lat": 43.6519999,
           "lon": -79.44831,
           "stopId": "1149",
           "tag": "8999",
-          "title": "Howard Park Ave At Dundas St West"
+          "title": "Howard Park Ave At Dundas St West",
         },
         Object {
           "lat": 43.65126,
           "lon": -79.44576,
           "stopId": "0987",
           "tag": "2243",
-          "title": "Dundas St West At Sorauren Ave"
+          "title": "Dundas St West At Sorauren Ave",
         },
         Object {
           "lat": 43.65063,
           "lon": -79.44316,
           "stopId": "0991",
           "tag": "7506",
-          "title": "Dundas St West At Sterling Rd"
+          "title": "Dundas St West At Sterling Rd",
         },
         Object {
           "lat": 43.6507399,
           "lon": -79.4402,
           "stopId": "0835",
           "tag": "8412",
-          "title": "College St At Lansdowne Ave"
+          "title": "College St At Lansdowne Ave",
         },
         Object {
           "lat": 43.6517299,
           "lon": -79.43646,
           "stopId": "0818",
           "tag": "1690",
-          "title": "College St At Brock Ave"
+          "title": "College St At Brock Ave",
         },
         Object {
           "lat": 43.6524999,
           "lon": -79.43266,
           "stopId": "0826",
           "tag": "1861",
-          "title": "College St At Dufferin St"
+          "title": "College St At Dufferin St",
         },
         Object {
           "lat": 43.65285,
           "lon": -79.42978,
           "stopId": "0842",
           "tag": "8281",
-          "title": "College St At Rusholme Park Cres"
+          "title": "College St At Rusholme Park Cres",
         },
         Object {
           "lat": 43.65354,
           "lon": -79.4264999,
           "stopId": "0824",
           "tag": "9321",
-          "title": "College St At Dovercourt Rd"
+          "title": "College St At Dovercourt Rd",
         },
         Object {
           "lat": 43.6542999,
           "lon": -79.42295,
           "stopId": "0839",
           "tag": "2213",
-          "title": "College St At Ossington Ave"
+          "title": "College St At Ossington Ave",
         },
         Object {
           "lat": 43.65507,
           "lon": -79.4191599,
           "stopId": "0822",
           "tag": "9523",
-          "title": "College St At Crawford St"
+          "title": "College St At Crawford St",
         },
         Object {
           "lat": 43.6549,
           "lon": -79.41573,
           "stopId": "0832",
           "tag": "9798",
-          "title": "College St At Grace St"
+          "title": "College St At Grace St",
         },
         Object {
           "lat": 43.6551399,
           "lon": -79.41394,
           "stopId": "0820",
           "tag": "2977",
-          "title": "College St At Clinton St"
+          "title": "College St At Clinton St",
         },
         Object {
           "lat": 43.65561,
           "lon": -79.4114599,
           "stopId": "0830",
           "tag": "6387",
-          "title": "College St At Euclid Ave"
+          "title": "College St At Euclid Ave",
         },
         Object {
           "lat": 43.6563499,
           "lon": -79.40785,
           "stopId": "0811",
           "tag": "1403",
-          "title": "College St At Bathurst St"
+          "title": "College St At Bathurst St",
         },
         Object {
           "lat": 43.65687,
           "lon": -79.4052799,
           "stopId": "0816",
           "tag": "4638",
-          "title": "College St At Borden St"
+          "title": "College St At Borden St",
         },
         Object {
           "lat": 43.6572599,
           "lon": -79.40326,
           "stopId": "0809",
           "tag": "6774",
-          "title": "College St At Augusta Ave"
+          "title": "College St At Augusta Ave",
         },
         Object {
           "lat": 43.6578199,
           "lon": -79.4004,
           "stopId": "0843",
           "tag": "1010",
-          "title": "College St At Spadina Ave"
+          "title": "College St At Spadina Ave",
         },
         Object {
           "lat": 43.65855,
           "lon": -79.3963699,
           "stopId": "0815",
           "tag": "2748",
-          "title": "College St At Beverley St"
+          "title": "College St At Beverley St",
         },
         Object {
           "lat": 43.6590699,
           "lon": -79.39372,
           "stopId": "0837",
           "tag": "1459",
-          "title": "College St At McCaul St"
+          "title": "College St At McCaul St",
         },
         Object {
           "lat": 43.65971,
           "lon": -79.3907699,
           "stopId": "0847",
           "tag": "3206",
-          "title": "College St At University Ave (Queen\'S Park Station)"
+          "title": "College St At University Ave (Queen\'S Park Station)",
         },
         Object {
           "lat": 43.66041,
           "lon": -79.3875799,
           "stopId": "0828",
           "tag": "7426",
-          "title": "College St At Elizabeth St"
+          "title": "College St At Elizabeth St",
         },
         Object {
           "lat": 43.66074,
           "lon": -79.3861399,
           "stopId": "0813",
           "tag": "5462",
-          "title": "College St At Bay St"
+          "title": "College St At Bay St",
         },
         Object {
           "lat": 43.6612599,
           "lon": -79.38329,
           "stopId": "0848",
           "tag": "4865",
-          "title": "College St At Yonge St (College Station)"
+          "title": "College St At Yonge St (College Station)",
         },
         Object {
           "lat": 43.66174,
           "lon": -79.3796399,
           "stopId": "0751",
           "tag": "3962",
-          "title": "Carlton St At Church St"
+          "title": "Carlton St At Church St",
         },
         Object {
           "lat": 43.66233,
           "lon": -79.3768499,
           "stopId": "0753",
           "tag": "5993",
-          "title": "Carlton St At Jarvis St"
+          "title": "Carlton St At Jarvis St",
         },
         Object {
           "lat": 43.6631,
           "lon": -79.3731799,
           "stopId": "0758",
           "tag": "1942",
-          "title": "Carlton St At Sherbourne St"
+          "title": "Carlton St At Sherbourne St",
         },
         Object {
           "lat": 43.6636299,
           "lon": -79.37067,
           "stopId": "0755",
           "tag": "7913",
-          "title": "Carlton St At Ontario St"
+          "title": "Carlton St At Ontario St",
         },
         Object {
           "lat": 43.66416,
           "lon": -79.3681999,
           "stopId": "0757",
           "tag": "2350",
-          "title": "Carlton St At Parliament St"
+          "title": "Carlton St At Parliament St",
         },
         Object {
           "lat": 43.6620599,
           "lon": -79.36715,
           "stopId": "1452",
           "tag": "615",
-          "title": "Parliament St At Gerrard St East"
+          "title": "Parliament St At Gerrard St East",
         },
         Object {
           "lat": 43.6624999,
           "lon": -79.36421,
           "stopId": "1106",
           "tag": "3246",
-          "title": "Gerrard St East At Sackville St"
+          "title": "Gerrard St East At Sackville St",
         },
         Object {
           "lat": 43.66308,
           "lon": -79.3616099,
           "stopId": "1109",
           "tag": "2676",
-          "title": "Gerrard St East At Sumach St"
+          "title": "Gerrard St East At Sumach St",
         },
         Object {
           "lat": 43.6635799,
           "lon": -79.35935,
           "stopId": "1104",
           "tag": "6259",
-          "title": "Gerrard St East At River St"
+          "title": "Gerrard St East At River St",
         },
         Object {
           "lat": 43.6646899,
           "lon": -79.35539,
           "stopId": "1080",
           "tag": "688",
-          "title": "Gerrard St East At Blackburn St"
+          "title": "Gerrard St East At Blackburn St",
         },
         Object {
           "lat": 43.6653999,
           "lon": -79.35291,
           "stopId": "1081",
           "tag": "3903",
-          "title": "Gerrard St East At Broadview Ave"
+          "title": "Gerrard St East At Broadview Ave",
         },
         Object {
           "lat": 43.6662399,
           "lon": -79.34871,
           "stopId": "1087",
           "tag": "9320",
-          "title": "Gerrard St East At Degrassi St"
+          "title": "Gerrard St East At Degrassi St",
         },
         Object {
           "lat": 43.6669999,
           "lon": -79.34533,
           "stopId": "1096",
           "tag": "8985",
-          "title": "Gerrard St East At Logan Ave"
+          "title": "Gerrard St East At Logan Ave",
         },
         Object {
           "lat": 43.66751,
           "lon": -79.3429899,
           "stopId": "1083",
           "tag": "3762",
-          "title": "Gerrard St East At Carlaw Ave"
+          "title": "Gerrard St East At Carlaw Ave",
         },
         Object {
           "lat": 43.6680899,
           "lon": -79.34049,
           "stopId": "1100",
           "tag": "10311",
-          "title": "Gerrard St East At Pape Ave"
+          "title": "Gerrard St East At Pape Ave",
         },
         Object {
           "lat": 43.66873,
           "lon": -79.3376399,
           "stopId": "1098",
           "tag": "7733",
-          "title": "Gerrard St East At Marjory Ave"
+          "title": "Gerrard St East At Marjory Ave",
         },
         Object {
           "lat": 43.6691399,
           "lon": -79.33578,
           "stopId": "1092",
           "tag": "4921",
-          "title": "Gerrard St East At Jones Ave"
+          "title": "Gerrard St East At Jones Ave",
         },
         Object {
           "lat": 43.66971,
           "lon": -79.3332599,
           "stopId": "1094",
           "tag": "4875",
-          "title": "Gerrard St East At Leslie St"
+          "title": "Gerrard St East At Leslie St",
         },
         Object {
           "lat": 43.6702499,
           "lon": -79.3308,
           "stopId": "1077",
           "tag": "10305",
-          "title": "Gerrard St East At Alton Ave"
+          "title": "Gerrard St East At Alton Ave",
         },
         Object {
           "lat": 43.6708499,
           "lon": -79.32815,
           "stopId": "1089",
           "tag": "6955",
-          "title": "Gerrard St East At Greenwood Ave"
+          "title": "Gerrard St East At Greenwood Ave",
         },
         Object {
           "lat": 43.67174,
           "lon": -79.3241899,
           "stopId": "1112",
           "tag": "3567",
-          "title": "Gerrard St East At Woodfield Rd"
+          "title": "Gerrard St East At Woodfield Rd",
         },
         Object {
           "lat": 43.67223,
           "lon": -79.3220199,
           "stopId": "1078",
           "tag": "3368",
-          "title": "Gerrard St East At Ashdale Ave"
+          "title": "Gerrard St East At Ashdale Ave",
         },
         Object {
           "lat": 43.6727699,
           "lon": -79.31953,
           "stopId": "1085",
           "tag": "3797",
-          "title": "Gerrard St East At Coxwell Ave"
+          "title": "Gerrard St East At Coxwell Ave",
         },
         Object {
           "lat": 43.6751,
           "lon": -79.3201,
           "stopId": "1800",
           "tag": "8980",
-          "title": "Coxwell Ave At Upper Gerrard St East"
+          "title": "Coxwell Ave At Upper Gerrard St East",
         },
         Object {
           "lat": 43.67606,
           "lon": -79.3170899,
           "stopId": "1113",
           "tag": "8633",
-          "title": "Gerrard St East At Beaton Ave"
+          "title": "Gerrard St East At Beaton Ave",
         },
         Object {
           "lat": 43.6779299,
           "lon": -79.31507,
           "stopId": "1115",
           "tag": "963",
-          "title": "Gerrard St East At Bowmore Rd"
+          "title": "Gerrard St East At Bowmore Rd",
         },
         Object {
           "lat": 43.6795399,
           "lon": -79.3129,
           "stopId": "1122",
           "tag": "4705",
-          "title": "Gerrard St East At Kingsmount Park Rd"
+          "title": "Gerrard St East At Kingsmount Park Rd",
         },
         Object {
           "lat": 43.68069,
           "lon": -79.3108699,
           "stopId": "1127",
           "tag": "3478",
-          "title": "Gerrard St East At Woodbine Ave"
+          "title": "Gerrard St East At Woodbine Ave",
         },
         Object {
           "lat": 43.68167,
           "lon": -79.3088599,
           "stopId": "1120",
           "tag": "6022",
-          "title": "Gerrard St East At Golfview Ave"
+          "title": "Gerrard St East At Golfview Ave",
         },
         Object {
           "lat": 43.68257,
           "lon": -79.3061799,
           "stopId": "1118",
           "tag": "1201",
-          "title": "Gerrard St East At Glenmount Park Rd"
+          "title": "Gerrard St East At Glenmount Park Rd",
         },
         Object {
           "lat": 43.6832699,
           "lon": -79.30316,
           "stopId": "1125",
           "tag": "9851",
-          "title": "Gerrard St East At Norwood Rd"
+          "title": "Gerrard St East At Norwood Rd",
         },
         Object {
           "lat": 43.68387,
           "lon": -79.3004099,
           "stopId": "1124",
           "tag": "8500",
-          "title": "Gerrard St East At Main St"
+          "title": "Gerrard St East At Main St",
         },
         Object {
           "lat": 43.68804,
           "lon": -79.30165,
           "stopId": "1262",
           "tag": "549",
-          "title": "Main St At Danforth Ave"
+          "title": "Main St At Danforth Ave",
         },
         Object {
           "lat": 43.6888599,
           "lon": -79.3018,
           "tag": "14260_ar",
-          "title": "Main Street Station"
-        }
+          "title": "Main Street Station",
+        },
       ],
       "tag": "506_0_506bus",
       "title": "East - 506 Carlton Replacement Bus towards Main Street Station",
-      "useForUI": true
+      "useForUI": true,
     },
     Object {
       "branch": "506",
@@ -1144,439 +1144,439 @@ Object {
           "lon": -79.3018,
           "stopId": "14741",
           "tag": "14260",
-          "title": "Main Street Station"
+          "title": "Main Street Station",
         },
         Object {
           "lat": 43.6882999,
           "lon": -79.3019999,
           "stopId": "1263",
           "tag": "3867",
-          "title": "Main St At Danforth Ave"
+          "title": "Main St At Danforth Ave",
         },
         Object {
           "lat": 43.68417,
           "lon": -79.3002999,
           "stopId": "13923",
           "tag": "553",
-          "title": "Main St At Gerrard St East"
+          "title": "Main St At Gerrard St East",
         },
         Object {
           "lat": 43.68346,
           "lon": -79.3027399,
           "stopId": "1126",
           "tag": "800",
-          "title": "Gerrard St East At Norwood Rd"
+          "title": "Gerrard St East At Norwood Rd",
         },
         Object {
           "lat": 43.68276,
           "lon": -79.3058899,
           "stopId": "1119",
           "tag": "8056",
-          "title": "Gerrard St East At Glenmount Park Rd"
+          "title": "Gerrard St East At Glenmount Park Rd",
         },
         Object {
           "lat": 43.6820899,
           "lon": -79.3082899,
           "stopId": "1121",
           "tag": "4414",
-          "title": "Gerrard St East At Golfview Ave"
+          "title": "Gerrard St East At Golfview Ave",
         },
         Object {
           "lat": 43.68097,
           "lon": -79.3105099,
           "stopId": "1128",
           "tag": "2621",
-          "title": "Gerrard St East At Woodbine Ave"
+          "title": "Gerrard St East At Woodbine Ave",
         },
         Object {
           "lat": 43.67985,
           "lon": -79.3126599,
           "stopId": "1123",
           "tag": "1268",
-          "title": "Gerrard St East At Kingsmount Park Rd"
+          "title": "Gerrard St East At Kingsmount Park Rd",
         },
         Object {
           "lat": 43.6781699,
           "lon": -79.31492,
           "stopId": "1116",
           "tag": "6656",
-          "title": "Gerrard St East At Bowmore Rd"
+          "title": "Gerrard St East At Bowmore Rd",
         },
         Object {
           "lat": 43.6762799,
           "lon": -79.31688,
           "stopId": "1114",
           "tag": "4443",
-          "title": "Gerrard St East At Beaton Ave"
+          "title": "Gerrard St East At Beaton Ave",
         },
         Object {
           "lat": 43.6755499,
           "lon": -79.3200199,
           "stopId": "1117",
           "tag": "4650",
-          "title": "Gerrard St East At Coxwell Ave"
+          "title": "Gerrard St East At Coxwell Ave",
         },
         Object {
           "lat": 43.6731199,
           "lon": -79.31943,
           "stopId": "1794",
           "tag": "10283",
-          "title": "Coxwell Ave At Lower Gerrard St East"
+          "title": "Coxwell Ave At Lower Gerrard St East",
         },
         Object {
           "lat": 43.6723899,
           "lon": -79.32171,
           "stopId": "1079",
           "tag": "2048",
-          "title": "Gerrard St East At Ashdale Ave"
+          "title": "Gerrard St East At Ashdale Ave",
         },
         Object {
           "lat": 43.6716899,
           "lon": -79.32479,
           "stopId": "1091",
           "tag": "6873",
-          "title": "Gerrard St East At Highfield Rd"
+          "title": "Gerrard St East At Highfield Rd",
         },
         Object {
           "lat": 43.6709999,
           "lon": -79.32785,
           "stopId": "1090",
           "tag": "4325",
-          "title": "Gerrard St East At Greenwood Ave"
+          "title": "Gerrard St East At Greenwood Ave",
         },
         Object {
           "lat": 43.6704499,
           "lon": -79.33034,
           "stopId": "1103",
           "tag": "1123",
-          "title": "Gerrard St East At Prust Ave"
+          "title": "Gerrard St East At Prust Ave",
         },
         Object {
           "lat": 43.6698799,
           "lon": -79.33293,
           "stopId": "1095",
           "tag": "7935",
-          "title": "Gerrard St East At Leslie St"
+          "title": "Gerrard St East At Leslie St",
         },
         Object {
           "lat": 43.66933,
           "lon": -79.3354199,
           "stopId": "1093",
           "tag": "3292",
-          "title": "Gerrard St East At Jones Ave"
+          "title": "Gerrard St East At Jones Ave",
         },
         Object {
           "lat": 43.66886,
           "lon": -79.3374499,
           "stopId": "1099",
           "tag": "971",
-          "title": "Gerrard St East At Marjory Ave"
+          "title": "Gerrard St East At Marjory Ave",
         },
         Object {
           "lat": 43.6682299,
           "lon": -79.34025,
           "stopId": "1101",
           "tag": "3164",
-          "title": "Gerrard St East At Pape Ave"
+          "title": "Gerrard St East At Pape Ave",
         },
         Object {
           "lat": 43.6677299,
           "lon": -79.34251,
           "stopId": "1084",
           "tag": "8702",
-          "title": "Gerrard St East At Carlaw Ave"
+          "title": "Gerrard St East At Carlaw Ave",
         },
         Object {
           "lat": 43.66717,
           "lon": -79.3450699,
           "stopId": "1097",
           "tag": "10019",
-          "title": "Gerrard St East At Logan Ave"
+          "title": "Gerrard St East At Logan Ave",
         },
         Object {
           "lat": 43.6664199,
           "lon": -79.34841,
           "stopId": "1086",
           "tag": "7703",
-          "title": "Gerrard St East At Degrassi St"
+          "title": "Gerrard St East At Degrassi St",
         },
         Object {
           "lat": 43.6655599,
           "lon": -79.35236,
           "stopId": "1082",
           "tag": "4575",
-          "title": "Gerrard St East At Broadview Ave"
+          "title": "Gerrard St East At Broadview Ave",
         },
         Object {
           "lat": 43.66498,
           "lon": -79.3548999,
           "stopId": "1108",
           "tag": "8991",
-          "title": "Gerrard St East At St Matthews Rd"
+          "title": "Gerrard St East At St Matthews Rd",
         },
         Object {
           "lat": 43.6638,
           "lon": -79.3590699,
           "stopId": "1105",
           "tag": "7379",
-          "title": "Gerrard St East At River St"
+          "title": "Gerrard St East At River St",
         },
         Object {
           "lat": 43.6632599,
           "lon": -79.36125,
           "stopId": "1110",
           "tag": "2976",
-          "title": "Gerrard St East At Sumach St"
+          "title": "Gerrard St East At Sumach St",
         },
         Object {
           "lat": 43.6626899,
           "lon": -79.36389,
           "stopId": "1107",
           "tag": "2615",
-          "title": "Gerrard St East At Sackville St"
+          "title": "Gerrard St East At Sackville St",
         },
         Object {
           "lat": 43.6620599,
           "lon": -79.36677,
           "stopId": "1102",
           "tag": "7132",
-          "title": "Gerrard St East At Parliament St"
+          "title": "Gerrard St East At Parliament St",
         },
         Object {
           "lat": 43.66407,
           "lon": -79.36783,
           "stopId": "1451",
           "tag": "614",
-          "title": "Parliament St At Carlton St"
+          "title": "Parliament St At Carlton St",
         },
         Object {
           "lat": 43.66383,
           "lon": -79.3703599,
           "stopId": "0756",
           "tag": "1694",
-          "title": "Carlton St At Ontario St"
+          "title": "Carlton St At Ontario St",
         },
         Object {
           "lat": 43.6632899,
           "lon": -79.3729,
           "stopId": "0759",
           "tag": "2737",
-          "title": "Carlton St At Sherbourne St"
+          "title": "Carlton St At Sherbourne St",
         },
         Object {
           "lat": 43.6625099,
           "lon": -79.37657,
           "stopId": "0754",
           "tag": "4797",
-          "title": "Carlton St At Jarvis St"
+          "title": "Carlton St At Jarvis St",
         },
         Object {
           "lat": 43.662,
           "lon": -79.3791099,
           "stopId": "0752",
           "tag": "1016",
-          "title": "Carlton St At Church St"
+          "title": "Carlton St At Church St",
         },
         Object {
           "lat": 43.6614499,
           "lon": -79.38295,
           "stopId": "0760",
           "tag": "3548",
-          "title": "Carlton St At Yonge St (College Station)"
+          "title": "Carlton St At Yonge St (College Station)",
         },
         Object {
           "lat": 43.66092,
           "lon": -79.3856099,
           "stopId": "0814",
           "tag": "7982",
-          "title": "College St At Bay St"
+          "title": "College St At Bay St",
         },
         Object {
           "lat": 43.6606199,
           "lon": -79.38727,
           "stopId": "0829",
           "tag": "8914",
-          "title": "College St At Elizabeth St"
+          "title": "College St At Elizabeth St",
         },
         Object {
           "lat": 43.66002,
           "lon": -79.3901199,
           "stopId": "0841",
           "tag": "5948",
-          "title": "College St At Queen\'S Park (Queen\'S Park Station)"
+          "title": "College St At Queen\'S Park (Queen\'S Park Station)",
         },
         Object {
           "lat": 43.65931,
           "lon": -79.3932799,
           "stopId": "0838",
           "tag": "10367",
-          "title": "College St At McCaul St"
+          "title": "College St At McCaul St",
         },
         Object {
           "lat": 43.6588099,
           "lon": -79.39575,
           "stopId": "0845",
           "tag": "5013",
-          "title": "College St At St George St"
+          "title": "College St At St George St",
         },
         Object {
           "lat": 43.6580599,
           "lon": -79.39969,
           "stopId": "0844",
           "tag": "9193",
-          "title": "College St At Spadina Ave"
+          "title": "College St At Spadina Ave",
         },
         Object {
           "lat": 43.65754,
           "lon": -79.4026599,
           "stopId": "10151",
           "tag": "1782",
-          "title": "College St At Major St"
+          "title": "College St At Major St",
         },
         Object {
           "lat": 43.65707,
           "lon": -79.4050199,
           "stopId": "0817",
           "tag": "2878",
-          "title": "College St At Borden St"
+          "title": "College St At Borden St",
         },
         Object {
           "lat": 43.6566,
           "lon": -79.4074599,
           "stopId": "0812",
           "tag": "1566",
-          "title": "College St At Bathurst St"
+          "title": "College St At Bathurst St",
         },
         Object {
           "lat": 43.65582,
           "lon": -79.4112899,
           "stopId": "0831",
           "tag": "8274",
-          "title": "College St At Euclid Ave"
+          "title": "College St At Euclid Ave",
         },
         Object {
           "lat": 43.65529,
           "lon": -79.4137399,
           "stopId": "0821",
           "tag": "9200",
-          "title": "College St At Clinton St"
+          "title": "College St At Clinton St",
         },
         Object {
           "lat": 43.6549899,
           "lon": -79.4154299,
           "stopId": "0833",
           "tag": "8416",
-          "title": "College St At Grace St"
+          "title": "College St At Grace St",
         },
         Object {
           "lat": 43.6552399,
           "lon": -79.4188699,
           "stopId": "0823",
           "tag": "2568",
-          "title": "College St At Crawford St"
+          "title": "College St At Crawford St",
         },
         Object {
           "lat": 43.6544699,
           "lon": -79.42254,
           "stopId": "0840",
           "tag": "8354",
-          "title": "College St At Ossington Ave"
+          "title": "College St At Ossington Ave",
         },
         Object {
           "lat": 43.65369,
           "lon": -79.4262599,
           "stopId": "0825",
           "tag": "4012",
-          "title": "College St At Dovercourt Rd"
+          "title": "College St At Dovercourt Rd",
         },
         Object {
           "lat": 43.65306,
           "lon": -79.4292799,
           "stopId": "0834",
           "tag": "3069",
-          "title": "College St At Havelock St"
+          "title": "College St At Havelock St",
         },
         Object {
           "lat": 43.65265,
           "lon": -79.4323599,
           "stopId": "0827",
           "tag": "1039",
-          "title": "College St At Dufferin St"
+          "title": "College St At Dufferin St",
         },
         Object {
           "lat": 43.6518899,
           "lon": -79.43621,
           "stopId": "0819",
           "tag": "10033",
-          "title": "College St At Brock Ave"
+          "title": "College St At Brock Ave",
         },
         Object {
           "lat": 43.6512,
           "lon": -79.4396999,
           "stopId": "0836",
           "tag": "8135",
-          "title": "College St At Lansdowne Ave"
+          "title": "College St At Lansdowne Ave",
         },
         Object {
           "lat": 43.6506499,
           "lon": -79.4426299,
           "stopId": "0990",
           "tag": "4902",
-          "title": "Dundas St West At Sterling Rd"
+          "title": "Dundas St West At Sterling Rd",
         },
         Object {
           "lat": 43.6511999,
           "lon": -79.4450099,
           "stopId": "0988",
           "tag": "1195",
-          "title": "Dundas St West At Sorauren Ave"
+          "title": "Dundas St West At Sorauren Ave",
         },
         Object {
           "lat": 43.65191,
           "lon": -79.44751,
           "stopId": "0986",
           "tag": "5094",
-          "title": "Dundas St West At Howard Park Ave"
+          "title": "Dundas St West At Howard Park Ave",
         },
         Object {
           "lat": 43.6515899,
           "lon": -79.45081,
           "stopId": "1155",
           "tag": "9132",
-          "title": "Howard Park Ave At Roncesvalles Ave"
+          "title": "Howard Park Ave At Roncesvalles Ave",
         },
         Object {
           "lat": 43.65077,
           "lon": -79.4548699,
           "stopId": "1151",
           "tag": "8457",
-          "title": "Howard Park Ave At Indian Rd"
+          "title": "Howard Park Ave At Indian Rd",
         },
         Object {
           "lat": 43.6491499,
           "lon": -79.45744,
           "stopId": "1153",
           "tag": "4538",
-          "title": "Howard Park Ave At Parkside Dr"
+          "title": "Howard Park Ave At Parkside Dr",
         },
         Object {
           "lat": 43.65106,
           "lon": -79.45841,
           "stopId": "15399",
           "tag": "15266",
-          "title": "Parkside Dr At Indian Valley Cres South Side"
+          "title": "Parkside Dr At Indian Valley Cres South Side",
         },
         Object {
           "lat": 43.6539999,
           "lon": -79.46641,
           "tag": "14215_ar",
-          "title": "High Park Station"
-        }
+          "title": "High Park Station",
+        },
       ],
       "tag": "506_1_506bus",
       "title": "West - 506 Carlton Replacement Bus towards High Park and Keele Stn",
-      "useForUI": true
-    }
+      "useForUI": true,
+    },
   ],
   "latMax": 43.6888599,
   "latMin": 43.64905,
@@ -1587,1767 +1587,1767 @@ Object {
     Array [
       Object {
         "lat": 43.66556,
-        "lon": -79.35236
+        "lon": -79.35236,
       },
       Object {
         "lat": 43.66527,
-        "lon": -79.35351
+        "lon": -79.35351,
       },
       Object {
         "lat": 43.66498,
-        "lon": -79.3549
+        "lon": -79.3549,
       },
       Object {
         "lat": 43.66464,
-        "lon": -79.35576
+        "lon": -79.35576,
       },
       Object {
         "lat": 43.66453,
-        "lon": -79.35629
+        "lon": -79.35629,
       },
       Object {
         "lat": 43.6638,
-        "lon": -79.35907
+        "lon": -79.35907,
       },
       Object {
         "lat": 43.66358,
-        "lon": -79.35962
+        "lon": -79.35962,
       },
       Object {
         "lat": 43.66326,
-        "lon": -79.36125
+        "lon": -79.36125,
       },
       Object {
         "lat": 43.66269,
-        "lon": -79.36389
+        "lon": -79.36389,
       },
       Object {
         "lat": 43.6620599,
-        "lon": -79.36677
-      }
+        "lon": -79.36677,
+      },
     ],
     Array [
       Object {
         "lat": 43.65159,
-        "lon": -79.45081
+        "lon": -79.45081,
       },
       Object {
         "lat": 43.65077,
-        "lon": -79.45487
+        "lon": -79.45487,
       },
       Object {
         "lat": 43.65074,
-        "lon": -79.45487
+        "lon": -79.45487,
       },
       Object {
         "lat": 43.65069,
-        "lon": -79.45502
+        "lon": -79.45502,
       },
       Object {
         "lat": 43.64992,
-        "lon": -79.45659
+        "lon": -79.45659,
       },
       Object {
         "lat": 43.6497,
-        "lon": -79.45699
+        "lon": -79.45699,
       },
       Object {
         "lat": 43.64915,
-        "lon": -79.45744
+        "lon": -79.45744,
       },
       Object {
         "lat": 43.64885,
-        "lon": -79.45762
+        "lon": -79.45762,
       },
       Object {
         "lat": 43.64862,
-        "lon": -79.45779
+        "lon": -79.45779,
       },
       Object {
         "lat": 43.6489199,
-        "lon": -79.4579
+        "lon": -79.4579,
       },
       Object {
         "lat": 43.64916,
-        "lon": -79.45796
+        "lon": -79.45796,
       },
       Object {
         "lat": 43.65087,
-        "lon": -79.45839
+        "lon": -79.45839,
       },
       Object {
         "lat": 43.65106,
-        "lon": -79.45841
+        "lon": -79.45841,
       },
       Object {
         "lat": 43.6547,
-        "lon": -79.46004
+        "lon": -79.46004,
       },
       Object {
         "lat": 43.65353,
-        "lon": -79.46529
+        "lon": -79.46529,
       },
       Object {
         "lat": 43.65421,
-        "lon": -79.46556
+        "lon": -79.46556,
       },
       Object {
         "lat": 43.65405,
-        "lon": -79.46625
+        "lon": -79.46625,
       },
       Object {
         "lat": 43.654,
-        "lon": -79.46641
-      }
+        "lon": -79.46641,
+      },
     ],
     Array [
       Object {
         "lat": 43.65855,
-        "lon": -79.39637
+        "lon": -79.39637,
       },
       Object {
         "lat": 43.65907,
-        "lon": -79.39372
+        "lon": -79.39372,
       },
       Object {
         "lat": 43.6597099,
-        "lon": -79.39077
+        "lon": -79.39077,
       },
       Object {
         "lat": 43.66041,
-        "lon": -79.38758
+        "lon": -79.38758,
       },
       Object {
         "lat": 43.6607399,
-        "lon": -79.38614
+        "lon": -79.38614,
       },
       Object {
         "lat": 43.66126,
-        "lon": -79.38329
-      }
+        "lon": -79.38329,
+      },
     ],
     Array [
       Object {
         "lat": 43.6751,
-        "lon": -79.3201
+        "lon": -79.3201,
       },
       Object {
         "lat": 43.67533,
-        "lon": -79.32029
+        "lon": -79.32029,
       },
       Object {
         "lat": 43.67549,
-        "lon": -79.32001
+        "lon": -79.32001,
       },
       Object {
         "lat": 43.67564,
-        "lon": -79.31967
+        "lon": -79.31967,
       },
       Object {
         "lat": 43.6758,
-        "lon": -79.31903
+        "lon": -79.31903,
       },
       Object {
         "lat": 43.67608,
-        "lon": -79.31713
+        "lon": -79.31713,
       },
       Object {
         "lat": 43.67606,
-        "lon": -79.3170899
+        "lon": -79.3170899,
       },
       Object {
         "lat": 43.67626,
-        "lon": -79.31677
+        "lon": -79.31677,
       },
       Object {
         "lat": 43.67715,
-        "lon": -79.31575
+        "lon": -79.31575,
       },
       Object {
         "lat": 43.67784,
-        "lon": -79.31522
+        "lon": -79.31522,
       },
       Object {
         "lat": 43.67793,
-        "lon": -79.31507
+        "lon": -79.31507,
       },
       Object {
         "lat": 43.67808,
-        "lon": -79.31497
+        "lon": -79.31497,
       },
       Object {
         "lat": 43.67954,
-        "lon": -79.3129
+        "lon": -79.3129,
       },
       Object {
         "lat": 43.68037,
-        "lon": -79.31189
+        "lon": -79.31189,
       },
       Object {
         "lat": 43.68069,
-        "lon": -79.31087
+        "lon": -79.31087,
       },
       Object {
         "lat": 43.68079,
-        "lon": -79.31074
+        "lon": -79.31074,
       },
       Object {
         "lat": 43.6816699,
-        "lon": -79.30886
+        "lon": -79.30886,
       },
       Object {
         "lat": 43.6819599,
-        "lon": -79.30841
+        "lon": -79.30841,
       },
       Object {
         "lat": 43.68208,
-        "lon": -79.30811
+        "lon": -79.30811,
       },
       Object {
         "lat": 43.68257,
-        "lon": -79.30618
+        "lon": -79.30618,
       },
       Object {
         "lat": 43.6828,
-        "lon": -79.30546
+        "lon": -79.30546,
       },
       Object {
         "lat": 43.68327,
-        "lon": -79.30316
+        "lon": -79.30316,
       },
       Object {
         "lat": 43.68387,
-        "lon": -79.30041
+        "lon": -79.30041,
       },
       Object {
         "lat": 43.68394,
-        "lon": -79.30014
+        "lon": -79.30014,
       },
       Object {
         "lat": 43.68424,
-        "lon": -79.3002
+        "lon": -79.3002,
       },
       Object {
         "lat": 43.68804,
-        "lon": -79.30165
+        "lon": -79.30165,
       },
       Object {
         "lat": 43.68859,
-        "lon": -79.30203
+        "lon": -79.30203,
       },
       Object {
         "lat": 43.6888999,
-        "lon": -79.30218
+        "lon": -79.30218,
       },
       Object {
         "lat": 43.689,
-        "lon": -79.30223
+        "lon": -79.30223,
       },
       Object {
         "lat": 43.68907,
-        "lon": -79.30223
+        "lon": -79.30223,
       },
       Object {
         "lat": 43.6891,
-        "lon": -79.30218
+        "lon": -79.30218,
       },
       Object {
         "lat": 43.68912,
-        "lon": -79.30215
+        "lon": -79.30215,
       },
       Object {
         "lat": 43.68915,
-        "lon": -79.30195
+        "lon": -79.30195,
       },
       Object {
         "lat": 43.68932,
-        "lon": -79.30129
+        "lon": -79.30129,
       },
       Object {
         "lat": 43.68932,
-        "lon": -79.30122
+        "lon": -79.30122,
       },
       Object {
         "lat": 43.68931,
-        "lon": -79.30117
+        "lon": -79.30117,
       },
       Object {
         "lat": 43.6892799,
-        "lon": -79.30111
+        "lon": -79.30111,
       },
       Object {
         "lat": 43.68925,
-        "lon": -79.30107
+        "lon": -79.30107,
       },
       Object {
         "lat": 43.68921,
-        "lon": -79.30104
+        "lon": -79.30104,
       },
       Object {
         "lat": 43.68916,
-        "lon": -79.30101
+        "lon": -79.30101,
       },
       Object {
         "lat": 43.68911,
-        "lon": -79.30101
+        "lon": -79.30101,
       },
       Object {
         "lat": 43.68906,
-        "lon": -79.30103
+        "lon": -79.30103,
       },
       Object {
         "lat": 43.68902,
-        "lon": -79.30106
+        "lon": -79.30106,
       },
       Object {
         "lat": 43.68898,
-        "lon": -79.30113
+        "lon": -79.30113,
       },
       Object {
         "lat": 43.68886,
-        "lon": -79.3018
-      }
+        "lon": -79.3018,
+      },
     ],
     Array [
       Object {
         "lat": 43.6654,
-        "lon": -79.35291
+        "lon": -79.35291,
       },
       Object {
         "lat": 43.66548,
-        "lon": -79.35276
+        "lon": -79.35276,
       },
       Object {
         "lat": 43.66555,
-        "lon": -79.35212
+        "lon": -79.35212,
       },
       Object {
         "lat": 43.66624,
-        "lon": -79.34871
+        "lon": -79.34871,
       },
       Object {
         "lat": 43.667,
-        "lon": -79.34533
+        "lon": -79.34533,
       },
       Object {
         "lat": 43.66751,
-        "lon": -79.34299
+        "lon": -79.34299,
       },
       Object {
         "lat": 43.66809,
-        "lon": -79.34049
+        "lon": -79.34049,
       },
       Object {
         "lat": 43.6687299,
-        "lon": -79.3376399
+        "lon": -79.3376399,
       },
       Object {
         "lat": 43.66914,
-        "lon": -79.33578
+        "lon": -79.33578,
       },
       Object {
         "lat": 43.66971,
-        "lon": -79.33326
+        "lon": -79.33326,
       },
       Object {
         "lat": 43.67025,
-        "lon": -79.3308
+        "lon": -79.3308,
       },
       Object {
         "lat": 43.67085,
-        "lon": -79.3281499
+        "lon": -79.3281499,
       },
       Object {
         "lat": 43.67174,
-        "lon": -79.32419
+        "lon": -79.32419,
       },
       Object {
         "lat": 43.67223,
-        "lon": -79.32202
+        "lon": -79.32202,
       },
       Object {
         "lat": 43.67277,
-        "lon": -79.31953
-      }
+        "lon": -79.31953,
+      },
     ],
     Array [
       Object {
         "lat": 43.654,
-        "lon": -79.46641
+        "lon": -79.46641,
       },
       Object {
         "lat": 43.65405,
-        "lon": -79.46625
+        "lon": -79.46625,
       },
       Object {
         "lat": 43.65421,
-        "lon": -79.46556
+        "lon": -79.46556,
       },
       Object {
         "lat": 43.65353,
-        "lon": -79.46529
+        "lon": -79.46529,
       },
       Object {
         "lat": 43.6547,
-        "lon": -79.46004
+        "lon": -79.46004,
       },
       Object {
         "lat": 43.6508899,
-        "lon": -79.45847
+        "lon": -79.45847,
       },
       Object {
         "lat": 43.65056,
-        "lon": -79.45829
+        "lon": -79.45829,
       },
       Object {
         "lat": 43.6489199,
-        "lon": -79.4579
+        "lon": -79.4579,
       },
       Object {
         "lat": 43.64862,
-        "lon": -79.45779
+        "lon": -79.45779,
       },
       Object {
         "lat": 43.64885,
-        "lon": -79.45762
+        "lon": -79.45762,
       },
       Object {
         "lat": 43.64905,
-        "lon": -79.45742
+        "lon": -79.45742,
       },
       Object {
         "lat": 43.6497,
-        "lon": -79.45699
+        "lon": -79.45699,
       },
       Object {
         "lat": 43.64992,
-        "lon": -79.45659
+        "lon": -79.45659,
       },
       Object {
         "lat": 43.65057,
-        "lon": -79.4551
+        "lon": -79.4551,
       },
       Object {
         "lat": 43.65069,
-        "lon": -79.45502
+        "lon": -79.45502,
       },
       Object {
         "lat": 43.65074,
-        "lon": -79.45487
+        "lon": -79.45487,
       },
       Object {
         "lat": 43.6513,
-        "lon": -79.45092
+        "lon": -79.45092,
       },
       Object {
         "lat": 43.65143,
-        "lon": -79.45117
-      }
+        "lon": -79.45117,
+      },
     ],
     Array [
       Object {
         "lat": 43.65782,
-        "lon": -79.4004
+        "lon": -79.4004,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.40027
+        "lon": -79.40027,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.40017
+        "lon": -79.40017,
       },
       Object {
         "lat": 43.65794,
-        "lon": -79.40004
+        "lon": -79.40004,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.39982
+        "lon": -79.39982,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.39974
+        "lon": -79.39974,
       },
       Object {
         "lat": 43.65798,
-        "lon": -79.39962
+        "lon": -79.39962,
       },
       Object {
         "lat": 43.65855,
-        "lon": -79.39637
+        "lon": -79.39637,
       },
       Object {
         "lat": 43.65907,
-        "lon": -79.39372
+        "lon": -79.39372,
       },
       Object {
         "lat": 43.6597099,
-        "lon": -79.39077
+        "lon": -79.39077,
       },
       Object {
         "lat": 43.66041,
-        "lon": -79.38758
+        "lon": -79.38758,
       },
       Object {
         "lat": 43.6607399,
-        "lon": -79.38614
+        "lon": -79.38614,
       },
       Object {
         "lat": 43.66126,
-        "lon": -79.38329
-      }
+        "lon": -79.38329,
+      },
     ],
     Array [
       Object {
         "lat": 43.65806,
-        "lon": -79.39969
+        "lon": -79.39969,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.39974
+        "lon": -79.39974,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.39982
+        "lon": -79.39982,
       },
       Object {
         "lat": 43.65794,
-        "lon": -79.40004
+        "lon": -79.40004,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.40017
+        "lon": -79.40017,
       },
       Object {
         "lat": 43.65796,
-        "lon": -79.40027
+        "lon": -79.40027,
       },
       Object {
         "lat": 43.65754,
-        "lon": -79.40266
+        "lon": -79.40266,
       },
       Object {
         "lat": 43.65707,
-        "lon": -79.4050199
+        "lon": -79.4050199,
       },
       Object {
         "lat": 43.6566,
-        "lon": -79.40746
+        "lon": -79.40746,
       },
       Object {
         "lat": 43.65582,
-        "lon": -79.4112899
+        "lon": -79.4112899,
       },
       Object {
         "lat": 43.65529,
-        "lon": -79.41374
+        "lon": -79.41374,
       },
       Object {
         "lat": 43.65496,
-        "lon": -79.41504
+        "lon": -79.41504,
       },
       Object {
         "lat": 43.65499,
-        "lon": -79.41543
+        "lon": -79.41543,
       },
       Object {
         "lat": 43.65511,
-        "lon": -79.41672
+        "lon": -79.41672,
       },
       Object {
         "lat": 43.65516,
-        "lon": -79.41707
+        "lon": -79.41707,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41801
+        "lon": -79.41801,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41808
+        "lon": -79.41808,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41817
+        "lon": -79.41817,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41824
+        "lon": -79.41824,
       },
       Object {
         "lat": 43.65524,
-        "lon": -79.41832
+        "lon": -79.41832,
       },
       Object {
         "lat": 43.65523,
-        "lon": -79.41857
+        "lon": -79.41857,
       },
       Object {
         "lat": 43.65524,
-        "lon": -79.41887
+        "lon": -79.41887,
       },
       Object {
         "lat": 43.6550299,
-        "lon": -79.4197
+        "lon": -79.4197,
       },
       Object {
         "lat": 43.65447,
-        "lon": -79.42254
-      }
+        "lon": -79.42254,
+      },
     ],
     Array [
       Object {
         "lat": 43.66126,
-        "lon": -79.38329
+        "lon": -79.38329,
       },
       Object {
         "lat": 43.66137,
-        "lon": -79.3831
+        "lon": -79.3831,
       },
       Object {
         "lat": 43.66136,
-        "lon": -79.38193
+        "lon": -79.38193,
       },
       Object {
         "lat": 43.66143,
-        "lon": -79.38146
+        "lon": -79.38146,
       },
       Object {
         "lat": 43.66174,
-        "lon": -79.37964
+        "lon": -79.37964,
       },
       Object {
         "lat": 43.66233,
-        "lon": -79.37685
+        "lon": -79.37685,
       },
       Object {
         "lat": 43.6631,
-        "lon": -79.37318
+        "lon": -79.37318,
       },
       Object {
         "lat": 43.66363,
-        "lon": -79.37067
+        "lon": -79.37067,
       },
       Object {
         "lat": 43.66416,
-        "lon": -79.3682
+        "lon": -79.3682,
       },
       Object {
         "lat": 43.66428,
-        "lon": -79.36797
+        "lon": -79.36797,
       },
       Object {
         "lat": 43.6620599,
-        "lon": -79.36715
-      }
+        "lon": -79.36715,
+      },
     ],
     Array [
       Object {
         "lat": 43.68886,
-        "lon": -79.3018
+        "lon": -79.3018,
       },
       Object {
         "lat": 43.6888,
-        "lon": -79.30182
+        "lon": -79.30182,
       },
       Object {
         "lat": 43.68878,
-        "lon": -79.30188
+        "lon": -79.30188,
       },
       Object {
         "lat": 43.68875,
-        "lon": -79.30194
+        "lon": -79.30194,
       },
       Object {
         "lat": 43.6887,
-        "lon": -79.302
+        "lon": -79.302,
       },
       Object {
         "lat": 43.68866,
-        "lon": -79.30202
+        "lon": -79.30202,
       },
       Object {
         "lat": 43.68859,
-        "lon": -79.30203
+        "lon": -79.30203,
       },
       Object {
         "lat": 43.6883,
-        "lon": -79.302
+        "lon": -79.302,
       },
       Object {
         "lat": 43.68443,
-        "lon": -79.30026
+        "lon": -79.30026,
       },
       Object {
         "lat": 43.68417,
-        "lon": -79.3002999
+        "lon": -79.3002999,
       },
       Object {
         "lat": 43.68406,
-        "lon": -79.30013
+        "lon": -79.30013,
       },
       Object {
         "lat": 43.68365,
-        "lon": -79.3015099
+        "lon": -79.3015099,
       },
       Object {
         "lat": 43.6834599,
-        "lon": -79.30274
+        "lon": -79.30274,
       },
       Object {
         "lat": 43.6828,
-        "lon": -79.30546
+        "lon": -79.30546,
       },
       Object {
         "lat": 43.68276,
-        "lon": -79.30589
+        "lon": -79.30589,
       },
       Object {
         "lat": 43.68208,
-        "lon": -79.30811
+        "lon": -79.30811,
       },
       Object {
         "lat": 43.68209,
-        "lon": -79.30829
+        "lon": -79.30829,
       },
       Object {
         "lat": 43.6819599,
-        "lon": -79.30841
+        "lon": -79.30841,
       },
       Object {
         "lat": 43.68097,
-        "lon": -79.3105099
+        "lon": -79.3105099,
       },
       Object {
         "lat": 43.68079,
-        "lon": -79.31074
+        "lon": -79.31074,
       },
       Object {
         "lat": 43.68047,
-        "lon": -79.31164
+        "lon": -79.31164,
       },
       Object {
         "lat": 43.68013,
-        "lon": -79.31222
+        "lon": -79.31222,
       },
       Object {
         "lat": 43.67985,
-        "lon": -79.3126599
+        "lon": -79.3126599,
       },
       Object {
         "lat": 43.67817,
-        "lon": -79.31492
+        "lon": -79.31492,
       },
       Object {
         "lat": 43.67808,
-        "lon": -79.31497
+        "lon": -79.31497,
       },
       Object {
         "lat": 43.67784,
-        "lon": -79.31522
+        "lon": -79.31522,
       },
       Object {
         "lat": 43.67727,
-        "lon": -79.31562
+        "lon": -79.31562,
       },
       Object {
         "lat": 43.67626,
-        "lon": -79.31677
+        "lon": -79.31677,
       },
       Object {
         "lat": 43.67628,
-        "lon": -79.31688
+        "lon": -79.31688,
       },
       Object {
         "lat": 43.67608,
-        "lon": -79.31713
+        "lon": -79.31713,
       },
       Object {
         "lat": 43.6758,
-        "lon": -79.31903
+        "lon": -79.31903,
       },
       Object {
         "lat": 43.67571,
-        "lon": -79.31946
+        "lon": -79.31946,
       },
       Object {
         "lat": 43.67552,
-        "lon": -79.31992
+        "lon": -79.31992,
       },
       Object {
         "lat": 43.67555,
-        "lon": -79.32002
+        "lon": -79.32002,
       },
       Object {
         "lat": 43.67533,
-        "lon": -79.32029
+        "lon": -79.32029,
       },
       Object {
         "lat": 43.67312,
-        "lon": -79.31943
-      }
+        "lon": -79.31943,
+      },
     ],
     Array [
       Object {
         "lat": 43.662,
-        "lon": -79.37911
+        "lon": -79.37911,
       },
       Object {
         "lat": 43.66187,
-        "lon": -79.37936
+        "lon": -79.37936,
       },
       Object {
         "lat": 43.66136,
-        "lon": -79.38182
+        "lon": -79.38182,
       },
       Object {
         "lat": 43.66145,
-        "lon": -79.3829499
-      }
+        "lon": -79.3829499,
+      },
     ],
     Array [
       Object {
         "lat": 43.6620599,
-        "lon": -79.36715
+        "lon": -79.36715,
       },
       Object {
         "lat": 43.66194,
-        "lon": -79.36702
+        "lon": -79.36702,
       },
       Object {
         "lat": 43.6625,
-        "lon": -79.36421
+        "lon": -79.36421,
       },
       Object {
         "lat": 43.66308,
-        "lon": -79.36161
+        "lon": -79.36161,
       },
       Object {
         "lat": 43.66358,
-        "lon": -79.35935
+        "lon": -79.35935,
       },
       Object {
         "lat": 43.6637,
-        "lon": -79.35923
+        "lon": -79.35923,
       },
       Object {
         "lat": 43.66448,
-        "lon": -79.35648
+        "lon": -79.35648,
       },
       Object {
         "lat": 43.66469,
-        "lon": -79.35539
+        "lon": -79.35539,
       },
       Object {
         "lat": 43.6654,
-        "lon": -79.35291
-      }
+        "lon": -79.35291,
+      },
     ],
     Array [
       Object {
         "lat": 43.67277,
-        "lon": -79.31953
+        "lon": -79.31953,
       },
       Object {
         "lat": 43.6729,
-        "lon": -79.3193
+        "lon": -79.3193,
       },
       Object {
         "lat": 43.6751,
-        "lon": -79.3201
+        "lon": -79.3201,
       },
       Object {
         "lat": 43.67533,
-        "lon": -79.32029
+        "lon": -79.32029,
       },
       Object {
         "lat": 43.67549,
-        "lon": -79.32001
+        "lon": -79.32001,
       },
       Object {
         "lat": 43.67564,
-        "lon": -79.31967
+        "lon": -79.31967,
       },
       Object {
         "lat": 43.6758,
-        "lon": -79.31903
+        "lon": -79.31903,
       },
       Object {
         "lat": 43.67608,
-        "lon": -79.31713
+        "lon": -79.31713,
       },
       Object {
         "lat": 43.67606,
-        "lon": -79.3170899
+        "lon": -79.3170899,
       },
       Object {
         "lat": 43.67626,
-        "lon": -79.31677
+        "lon": -79.31677,
       },
       Object {
         "lat": 43.67715,
-        "lon": -79.31575
+        "lon": -79.31575,
       },
       Object {
         "lat": 43.67784,
-        "lon": -79.31522
+        "lon": -79.31522,
       },
       Object {
         "lat": 43.67793,
-        "lon": -79.31507
+        "lon": -79.31507,
       },
       Object {
         "lat": 43.67808,
-        "lon": -79.31497
+        "lon": -79.31497,
       },
       Object {
         "lat": 43.67954,
-        "lon": -79.3129
+        "lon": -79.3129,
       },
       Object {
         "lat": 43.68037,
-        "lon": -79.31189
+        "lon": -79.31189,
       },
       Object {
         "lat": 43.68069,
-        "lon": -79.31087
+        "lon": -79.31087,
       },
       Object {
         "lat": 43.68079,
-        "lon": -79.31074
+        "lon": -79.31074,
       },
       Object {
         "lat": 43.6816699,
-        "lon": -79.30886
+        "lon": -79.30886,
       },
       Object {
         "lat": 43.6819599,
-        "lon": -79.30841
+        "lon": -79.30841,
       },
       Object {
         "lat": 43.68208,
-        "lon": -79.30811
+        "lon": -79.30811,
       },
       Object {
         "lat": 43.68257,
-        "lon": -79.30618
+        "lon": -79.30618,
       },
       Object {
         "lat": 43.6828,
-        "lon": -79.30546
+        "lon": -79.30546,
       },
       Object {
         "lat": 43.68327,
-        "lon": -79.30316
+        "lon": -79.30316,
       },
       Object {
         "lat": 43.68387,
-        "lon": -79.30041
+        "lon": -79.30041,
       },
       Object {
         "lat": 43.68394,
-        "lon": -79.30014
+        "lon": -79.30014,
       },
       Object {
         "lat": 43.68424,
-        "lon": -79.3002
+        "lon": -79.3002,
       },
       Object {
         "lat": 43.68804,
-        "lon": -79.30165
+        "lon": -79.30165,
       },
       Object {
         "lat": 43.68859,
-        "lon": -79.30203
+        "lon": -79.30203,
       },
       Object {
         "lat": 43.68886,
-        "lon": -79.3018
-      }
+        "lon": -79.3018,
+      },
     ],
     Array [
       Object {
         "lat": 43.65447,
-        "lon": -79.42254
+        "lon": -79.42254,
       },
       Object {
         "lat": 43.65369,
-        "lon": -79.42626
+        "lon": -79.42626,
       },
       Object {
         "lat": 43.65306,
-        "lon": -79.42928
+        "lon": -79.42928,
       },
       Object {
         "lat": 43.65287,
-        "lon": -79.43014
+        "lon": -79.43014,
       },
       Object {
         "lat": 43.65291,
-        "lon": -79.43029
+        "lon": -79.43029,
       },
       Object {
         "lat": 43.65291,
-        "lon": -79.43037
+        "lon": -79.43037,
       },
       Object {
         "lat": 43.65292,
-        "lon": -79.43047
+        "lon": -79.43047,
       },
       Object {
         "lat": 43.65292,
-        "lon": -79.43058
+        "lon": -79.43058,
       },
       Object {
         "lat": 43.65291,
-        "lon": -79.43071
+        "lon": -79.43071,
       },
       Object {
         "lat": 43.65289,
-        "lon": -79.4308
+        "lon": -79.4308,
       },
       Object {
         "lat": 43.65265,
-        "lon": -79.43236
+        "lon": -79.43236,
       },
       Object {
         "lat": 43.65189,
-        "lon": -79.43621
+        "lon": -79.43621,
       },
       Object {
         "lat": 43.6512,
-        "lon": -79.4397
+        "lon": -79.4397,
       },
       Object {
         "lat": 43.6511,
-        "lon": -79.43975
+        "lon": -79.43975,
       },
       Object {
         "lat": 43.65076,
-        "lon": -79.44033
+        "lon": -79.44033,
       },
       Object {
         "lat": 43.65027,
-        "lon": -79.44101
+        "lon": -79.44101,
       },
       Object {
         "lat": 43.65031,
-        "lon": -79.44143
+        "lon": -79.44143,
       },
       Object {
         "lat": 43.65065,
-        "lon": -79.44263
+        "lon": -79.44263,
       },
       Object {
         "lat": 43.6512,
-        "lon": -79.44501
+        "lon": -79.44501,
       },
       Object {
         "lat": 43.65158,
-        "lon": -79.4468
+        "lon": -79.4468,
       },
       Object {
         "lat": 43.65191,
-        "lon": -79.44751
+        "lon": -79.44751,
       },
       Object {
         "lat": 43.65211,
-        "lon": -79.44807
+        "lon": -79.44807,
       },
       Object {
         "lat": 43.65159,
-        "lon": -79.45081
-      }
+        "lon": -79.45081,
+      },
     ],
     Array [
       Object {
         "lat": 43.65534,
-        "lon": -79.38587
+        "lon": -79.38587,
       },
       Object {
         "lat": 43.6549,
-        "lon": -79.38786
+        "lon": -79.38786,
       },
       Object {
         "lat": 43.65478,
-        "lon": -79.3883
+        "lon": -79.3883,
       },
       Object {
         "lat": 43.6548,
-        "lon": -79.38842
+        "lon": -79.38842,
       },
       Object {
         "lat": 43.65481,
-        "lon": -79.38852
+        "lon": -79.38852,
       },
       Object {
         "lat": 43.65451,
-        "lon": -79.38999
+        "lon": -79.38999,
       },
       Object {
         "lat": 43.6545,
-        "lon": -79.39037
+        "lon": -79.39037,
       },
       Object {
         "lat": 43.65441,
-        "lon": -79.39122
+        "lon": -79.39122,
       },
       Object {
         "lat": 43.65433,
-        "lon": -79.39145
+        "lon": -79.39145,
       },
       Object {
         "lat": 43.6538899,
-        "lon": -79.39372
+        "lon": -79.39372,
       },
       Object {
         "lat": 43.65341,
-        "lon": -79.39604
+        "lon": -79.39604,
       },
       Object {
         "lat": 43.65307,
-        "lon": -79.39742
+        "lon": -79.39742,
       },
       Object {
         "lat": 43.65306,
-        "lon": -79.39771
+        "lon": -79.39771,
       },
       Object {
         "lat": 43.65294,
-        "lon": -79.39804
+        "lon": -79.39804,
       },
       Object {
         "lat": 43.6534199,
-        "lon": -79.39802
+        "lon": -79.39802,
       },
       Object {
         "lat": 43.65567,
-        "lon": -79.39889
-      }
+        "lon": -79.39889,
+      },
     ],
     Array [
       Object {
         "lat": 43.67277,
-        "lon": -79.31953
+        "lon": -79.31953,
       },
       Object {
         "lat": 43.6729,
-        "lon": -79.3193
+        "lon": -79.3193,
       },
       Object {
         "lat": 43.6751,
-        "lon": -79.3201
+        "lon": -79.3201,
       },
       Object {
         "lat": 43.67533,
-        "lon": -79.32029
+        "lon": -79.32029,
       },
       Object {
         "lat": 43.67549,
-        "lon": -79.32001
+        "lon": -79.32001,
       },
       Object {
         "lat": 43.67564,
-        "lon": -79.31967
+        "lon": -79.31967,
       },
       Object {
         "lat": 43.6758,
-        "lon": -79.31903
+        "lon": -79.31903,
       },
       Object {
         "lat": 43.67608,
-        "lon": -79.31713
+        "lon": -79.31713,
       },
       Object {
         "lat": 43.67606,
-        "lon": -79.3170899
+        "lon": -79.3170899,
       },
       Object {
         "lat": 43.67626,
-        "lon": -79.31677
+        "lon": -79.31677,
       },
       Object {
         "lat": 43.67715,
-        "lon": -79.31575
+        "lon": -79.31575,
       },
       Object {
         "lat": 43.67784,
-        "lon": -79.31522
+        "lon": -79.31522,
       },
       Object {
         "lat": 43.67793,
-        "lon": -79.31507
+        "lon": -79.31507,
       },
       Object {
         "lat": 43.67808,
-        "lon": -79.31497
+        "lon": -79.31497,
       },
       Object {
         "lat": 43.67954,
-        "lon": -79.3129
+        "lon": -79.3129,
       },
       Object {
         "lat": 43.68037,
-        "lon": -79.31189
+        "lon": -79.31189,
       },
       Object {
         "lat": 43.68069,
-        "lon": -79.31087
+        "lon": -79.31087,
       },
       Object {
         "lat": 43.68079,
-        "lon": -79.31074
+        "lon": -79.31074,
       },
       Object {
         "lat": 43.6816699,
-        "lon": -79.30886
+        "lon": -79.30886,
       },
       Object {
         "lat": 43.6819599,
-        "lon": -79.30841
+        "lon": -79.30841,
       },
       Object {
         "lat": 43.68208,
-        "lon": -79.30811
+        "lon": -79.30811,
       },
       Object {
         "lat": 43.68257,
-        "lon": -79.30618
+        "lon": -79.30618,
       },
       Object {
         "lat": 43.6828,
-        "lon": -79.30546
+        "lon": -79.30546,
       },
       Object {
         "lat": 43.68327,
-        "lon": -79.30316
+        "lon": -79.30316,
       },
       Object {
         "lat": 43.68387,
-        "lon": -79.30041
+        "lon": -79.30041,
       },
       Object {
         "lat": 43.68394,
-        "lon": -79.30014
+        "lon": -79.30014,
       },
       Object {
         "lat": 43.68424,
-        "lon": -79.3002
+        "lon": -79.3002,
       },
       Object {
         "lat": 43.68804,
-        "lon": -79.30165
+        "lon": -79.30165,
       },
       Object {
         "lat": 43.68859,
-        "lon": -79.30203
+        "lon": -79.30203,
       },
       Object {
         "lat": 43.6888999,
-        "lon": -79.30218
+        "lon": -79.30218,
       },
       Object {
         "lat": 43.689,
-        "lon": -79.30223
+        "lon": -79.30223,
       },
       Object {
         "lat": 43.68907,
-        "lon": -79.30223
+        "lon": -79.30223,
       },
       Object {
         "lat": 43.6891,
-        "lon": -79.30218
+        "lon": -79.30218,
       },
       Object {
         "lat": 43.68912,
-        "lon": -79.30215
+        "lon": -79.30215,
       },
       Object {
         "lat": 43.68915,
-        "lon": -79.30195
+        "lon": -79.30195,
       },
       Object {
         "lat": 43.68932,
-        "lon": -79.30129
+        "lon": -79.30129,
       },
       Object {
         "lat": 43.68932,
-        "lon": -79.30122
+        "lon": -79.30122,
       },
       Object {
         "lat": 43.68931,
-        "lon": -79.30117
+        "lon": -79.30117,
       },
       Object {
         "lat": 43.6892799,
-        "lon": -79.30111
+        "lon": -79.30111,
       },
       Object {
         "lat": 43.68925,
-        "lon": -79.30107
+        "lon": -79.30107,
       },
       Object {
         "lat": 43.68921,
-        "lon": -79.30104
+        "lon": -79.30104,
       },
       Object {
         "lat": 43.68916,
-        "lon": -79.30101
+        "lon": -79.30101,
       },
       Object {
         "lat": 43.68911,
-        "lon": -79.30101
+        "lon": -79.30101,
       },
       Object {
         "lat": 43.68906,
-        "lon": -79.30103
+        "lon": -79.30103,
       },
       Object {
         "lat": 43.68902,
-        "lon": -79.30106
+        "lon": -79.30106,
       },
       Object {
         "lat": 43.68898,
-        "lon": -79.30113
+        "lon": -79.30113,
       },
       Object {
         "lat": 43.68886,
-        "lon": -79.3018
-      }
+        "lon": -79.3018,
+      },
     ],
     Array [
       Object {
         "lat": 43.66126,
-        "lon": -79.38329
+        "lon": -79.38329,
       },
       Object {
         "lat": 43.66137,
-        "lon": -79.3831
+        "lon": -79.3831,
       },
       Object {
         "lat": 43.66136,
-        "lon": -79.38193
+        "lon": -79.38193,
       },
       Object {
         "lat": 43.66143,
-        "lon": -79.38146
+        "lon": -79.38146,
       },
       Object {
         "lat": 43.66174,
-        "lon": -79.37964
+        "lon": -79.37964,
       },
       Object {
         "lat": 43.66233,
-        "lon": -79.37685
-      }
+        "lon": -79.37685,
+      },
     ],
     Array [
       Object {
         "lat": 43.6543,
-        "lon": -79.42295
+        "lon": -79.42295,
       },
       Object {
         "lat": 43.6550299,
-        "lon": -79.4197
+        "lon": -79.4197,
       },
       Object {
         "lat": 43.65507,
-        "lon": -79.41916
+        "lon": -79.41916,
       },
       Object {
         "lat": 43.65523,
-        "lon": -79.41857
+        "lon": -79.41857,
       },
       Object {
         "lat": 43.65524,
-        "lon": -79.41832
+        "lon": -79.41832,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41824
+        "lon": -79.41824,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41817
+        "lon": -79.41817,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41808
+        "lon": -79.41808,
       },
       Object {
         "lat": 43.65525,
-        "lon": -79.41801
+        "lon": -79.41801,
       },
       Object {
         "lat": 43.65516,
-        "lon": -79.41707
+        "lon": -79.41707,
       },
       Object {
         "lat": 43.65511,
-        "lon": -79.41672
+        "lon": -79.41672,
       },
       Object {
         "lat": 43.6549,
-        "lon": -79.41573
+        "lon": -79.41573,
       },
       Object {
         "lat": 43.65494,
-        "lon": -79.41559
+        "lon": -79.41559,
       },
       Object {
         "lat": 43.65494,
-        "lon": -79.41516
+        "lon": -79.41516,
       },
       Object {
         "lat": 43.65514,
-        "lon": -79.41394
+        "lon": -79.41394,
       },
       Object {
         "lat": 43.65561,
-        "lon": -79.41146
+        "lon": -79.41146,
       },
       Object {
         "lat": 43.65635,
-        "lon": -79.40785
+        "lon": -79.40785,
       },
       Object {
         "lat": 43.65687,
-        "lon": -79.40528
+        "lon": -79.40528,
       },
       Object {
         "lat": 43.65726,
-        "lon": -79.40326
+        "lon": -79.40326,
       },
       Object {
         "lat": 43.65782,
-        "lon": -79.4004
-      }
+        "lon": -79.4004,
+      },
     ],
     Array [
       Object {
         "lat": 43.66145,
-        "lon": -79.3829499
+        "lon": -79.3829499,
       },
       Object {
         "lat": 43.66137,
-        "lon": -79.3831
+        "lon": -79.3831,
       },
       Object {
         "lat": 43.66081,
-        "lon": -79.38584
+        "lon": -79.38584,
       },
       Object {
         "lat": 43.65922,
-        "lon": -79.38518
+        "lon": -79.38518,
       },
       Object {
         "lat": 43.6585899,
-        "lon": -79.38501
+        "lon": -79.38501,
       },
       Object {
         "lat": 43.65741,
-        "lon": -79.38453
+        "lon": -79.38453,
       },
       Object {
         "lat": 43.65584,
-        "lon": -79.38386
+        "lon": -79.38386,
       },
       Object {
         "lat": 43.65571,
-        "lon": -79.38375
+        "lon": -79.38375,
       },
       Object {
         "lat": 43.65534,
-        "lon": -79.38587
-      }
+        "lon": -79.38587,
+      },
     ],
     Array [
       Object {
         "lat": 43.67312,
-        "lon": -79.31943
+        "lon": -79.31943,
       },
       Object {
         "lat": 43.6729,
-        "lon": -79.3193
+        "lon": -79.3193,
       },
       Object {
         "lat": 43.67239,
-        "lon": -79.32171
+        "lon": -79.32171,
       },
       Object {
         "lat": 43.67169,
-        "lon": -79.3247899
+        "lon": -79.3247899,
       },
       Object {
         "lat": 43.671,
-        "lon": -79.32785
+        "lon": -79.32785,
       },
       Object {
         "lat": 43.67045,
-        "lon": -79.33034
+        "lon": -79.33034,
       },
       Object {
         "lat": 43.66988,
-        "lon": -79.33293
+        "lon": -79.33293,
       },
       Object {
         "lat": 43.66933,
-        "lon": -79.33542
+        "lon": -79.33542,
       },
       Object {
         "lat": 43.66886,
-        "lon": -79.33745
+        "lon": -79.33745,
       },
       Object {
         "lat": 43.66823,
-        "lon": -79.34025
+        "lon": -79.34025,
       },
       Object {
         "lat": 43.66773,
-        "lon": -79.34251
+        "lon": -79.34251,
       },
       Object {
         "lat": 43.66717,
-        "lon": -79.34507
+        "lon": -79.34507,
       },
       Object {
         "lat": 43.66642,
-        "lon": -79.34841
+        "lon": -79.34841,
       },
       Object {
         "lat": 43.66556,
-        "lon": -79.35236
-      }
+        "lon": -79.35236,
+      },
     ],
     Array [
       Object {
         "lat": 43.65143,
-        "lon": -79.45117
+        "lon": -79.45117,
       },
       Object {
         "lat": 43.652,
-        "lon": -79.44831
+        "lon": -79.44831,
       },
       Object {
         "lat": 43.65211,
-        "lon": -79.44807
+        "lon": -79.44807,
       },
       Object {
         "lat": 43.65158,
-        "lon": -79.4468
+        "lon": -79.4468,
       },
       Object {
         "lat": 43.65126,
-        "lon": -79.44576
+        "lon": -79.44576,
       },
       Object {
         "lat": 43.65063,
-        "lon": -79.44316
+        "lon": -79.44316,
       },
       Object {
         "lat": 43.65031,
-        "lon": -79.44143
+        "lon": -79.44143,
       },
       Object {
         "lat": 43.65027,
-        "lon": -79.44101
+        "lon": -79.44101,
       },
       Object {
         "lat": 43.65074,
-        "lon": -79.4402
+        "lon": -79.4402,
       },
       Object {
         "lat": 43.651,
-        "lon": -79.43999
+        "lon": -79.43999,
       },
       Object {
         "lat": 43.65132,
-        "lon": -79.43878
+        "lon": -79.43878,
       },
       Object {
         "lat": 43.65173,
-        "lon": -79.43646
+        "lon": -79.43646,
       },
       Object {
         "lat": 43.6525,
-        "lon": -79.43266
+        "lon": -79.43266,
       },
       Object {
         "lat": 43.65289,
-        "lon": -79.4308
+        "lon": -79.4308,
       },
       Object {
         "lat": 43.65291,
-        "lon": -79.43071
+        "lon": -79.43071,
       },
       Object {
         "lat": 43.65292,
-        "lon": -79.43058
+        "lon": -79.43058,
       },
       Object {
         "lat": 43.65292,
-        "lon": -79.43047
+        "lon": -79.43047,
       },
       Object {
         "lat": 43.65291,
-        "lon": -79.43037
+        "lon": -79.43037,
       },
       Object {
         "lat": 43.65291,
-        "lon": -79.43029
+        "lon": -79.43029,
       },
       Object {
         "lat": 43.65287,
-        "lon": -79.43014
+        "lon": -79.43014,
       },
       Object {
         "lat": 43.65285,
-        "lon": -79.4297799
+        "lon": -79.4297799,
       },
       Object {
         "lat": 43.65354,
-        "lon": -79.4265
+        "lon": -79.4265,
       },
       Object {
         "lat": 43.6543,
-        "lon": -79.42295
-      }
+        "lon": -79.42295,
+      },
     ],
     Array [
       Object {
         "lat": 43.67312,
-        "lon": -79.31943
+        "lon": -79.31943,
       },
       Object {
         "lat": 43.67239,
-        "lon": -79.32171
+        "lon": -79.32171,
       },
       Object {
         "lat": 43.67169,
-        "lon": -79.3247899
+        "lon": -79.3247899,
       },
       Object {
         "lat": 43.671,
-        "lon": -79.32785
+        "lon": -79.32785,
       },
       Object {
         "lat": 43.67045,
-        "lon": -79.33034
+        "lon": -79.33034,
       },
       Object {
         "lat": 43.66988,
-        "lon": -79.33293
+        "lon": -79.33293,
       },
       Object {
         "lat": 43.66933,
-        "lon": -79.33542
+        "lon": -79.33542,
       },
       Object {
         "lat": 43.66886,
-        "lon": -79.33745
+        "lon": -79.33745,
       },
       Object {
         "lat": 43.66823,
-        "lon": -79.34025
+        "lon": -79.34025,
       },
       Object {
         "lat": 43.66773,
-        "lon": -79.34251
+        "lon": -79.34251,
       },
       Object {
         "lat": 43.66717,
-        "lon": -79.34507
+        "lon": -79.34507,
       },
       Object {
         "lat": 43.66642,
-        "lon": -79.34841
+        "lon": -79.34841,
       },
       Object {
         "lat": 43.66556,
-        "lon": -79.35236
-      }
+        "lon": -79.35236,
+      },
     ],
     Array [
       Object {
         "lat": 43.6620599,
-        "lon": -79.36677
+        "lon": -79.36677,
       },
       Object {
         "lat": 43.66194,
-        "lon": -79.36702
+        "lon": -79.36702,
       },
       Object {
         "lat": 43.66407,
-        "lon": -79.36783
+        "lon": -79.36783,
       },
       Object {
         "lat": 43.66428,
-        "lon": -79.36797
+        "lon": -79.36797,
       },
       Object {
         "lat": 43.66383,
-        "lon": -79.37036
+        "lon": -79.37036,
       },
       Object {
         "lat": 43.66329,
-        "lon": -79.3729
+        "lon": -79.3729,
       },
       Object {
         "lat": 43.66251,
-        "lon": -79.37657
+        "lon": -79.37657,
       },
       Object {
         "lat": 43.662,
-        "lon": -79.37911
+        "lon": -79.37911,
       },
       Object {
         "lat": 43.66136,
-        "lon": -79.38182
+        "lon": -79.38182,
       },
       Object {
         "lat": 43.66145,
-        "lon": -79.3829499
-      }
+        "lon": -79.3829499,
+      },
     ],
     Array [
       Object {
         "lat": 43.66145,
-        "lon": -79.3829499
+        "lon": -79.3829499,
       },
       Object {
         "lat": 43.66137,
-        "lon": -79.3831
+        "lon": -79.3831,
       },
       Object {
         "lat": 43.66092,
-        "lon": -79.38561
+        "lon": -79.38561,
       },
       Object {
         "lat": 43.66062,
-        "lon": -79.38727
+        "lon": -79.38727,
       },
       Object {
         "lat": 43.66002,
-        "lon": -79.39012
+        "lon": -79.39012,
       },
       Object {
         "lat": 43.65931,
-        "lon": -79.39328
+        "lon": -79.39328,
       },
       Object {
         "lat": 43.65881,
-        "lon": -79.39575
+        "lon": -79.39575,
       },
       Object {
         "lat": 43.65798,
-        "lon": -79.39962
+        "lon": -79.39962,
       },
       Object {
         "lat": 43.65806,
-        "lon": -79.39969
-      }
-    ]
+        "lon": -79.39969,
+      },
+    ],
   ],
   "stops": Array [
     Object {
@@ -3355,954 +3355,954 @@ Object {
       "lon": -79.46641,
       "stopId": "14695",
       "tag": "14215",
-      "title": "High Park Station"
+      "title": "High Park Station",
     },
     Object {
       "lat": 43.65089,
       "lon": -79.45847,
       "stopId": "11781",
       "tag": "8881",
-      "title": "Parkside Dr At Indian Valley Cres South Side"
+      "title": "Parkside Dr At Indian Valley Cres South Side",
     },
     Object {
       "lat": 43.64905,
       "lon": -79.4574199,
       "stopId": "1152",
       "tag": "8673",
-      "title": "Howard Park Ave At Parkside Dr East Side"
+      "title": "Howard Park Ave At Parkside Dr East Side",
     },
     Object {
       "lat": 43.65057,
       "lon": -79.4550999,
       "stopId": "1150",
       "tag": "2958",
-      "title": "Howard Park Ave At Indian Rd"
+      "title": "Howard Park Ave At Indian Rd",
     },
     Object {
       "lat": 43.6512999,
       "lon": -79.45092,
       "stopId": "4578",
       "tag": "9383",
-      "title": "Roncesvalles Ave At Howard Park Ave"
+      "title": "Roncesvalles Ave At Howard Park Ave",
     },
     Object {
       "lat": 43.6514299,
       "lon": -79.45117,
       "stopId": "1154",
       "tag": "8763",
-      "title": "Howard Park Ave At Roncesvalles Ave"
+      "title": "Howard Park Ave At Roncesvalles Ave",
     },
     Object {
       "lat": 43.6519999,
       "lon": -79.44831,
       "stopId": "1149",
       "tag": "8999",
-      "title": "Howard Park Ave At Dundas St West"
+      "title": "Howard Park Ave At Dundas St West",
     },
     Object {
       "lat": 43.65126,
       "lon": -79.44576,
       "stopId": "0987",
       "tag": "2243",
-      "title": "Dundas St West At Sorauren Ave"
+      "title": "Dundas St West At Sorauren Ave",
     },
     Object {
       "lat": 43.65063,
       "lon": -79.44316,
       "stopId": "0991",
       "tag": "7506",
-      "title": "Dundas St West At Sterling Rd"
+      "title": "Dundas St West At Sterling Rd",
     },
     Object {
       "lat": 43.6507399,
       "lon": -79.4402,
       "stopId": "0835",
       "tag": "8412",
-      "title": "College St At Lansdowne Ave"
+      "title": "College St At Lansdowne Ave",
     },
     Object {
       "lat": 43.6517299,
       "lon": -79.43646,
       "stopId": "0818",
       "tag": "1690",
-      "title": "College St At Brock Ave"
+      "title": "College St At Brock Ave",
     },
     Object {
       "lat": 43.6524999,
       "lon": -79.43266,
       "stopId": "0826",
       "tag": "1861",
-      "title": "College St At Dufferin St"
+      "title": "College St At Dufferin St",
     },
     Object {
       "lat": 43.65285,
       "lon": -79.42978,
       "stopId": "0842",
       "tag": "8281",
-      "title": "College St At Rusholme Park Cres"
+      "title": "College St At Rusholme Park Cres",
     },
     Object {
       "lat": 43.65354,
       "lon": -79.4264999,
       "stopId": "0824",
       "tag": "9321",
-      "title": "College St At Dovercourt Rd"
+      "title": "College St At Dovercourt Rd",
     },
     Object {
       "lat": 43.6542999,
       "lon": -79.42295,
       "stopId": "0839",
       "tag": "2213",
-      "title": "College St At Ossington Ave"
+      "title": "College St At Ossington Ave",
     },
     Object {
       "lat": 43.65507,
       "lon": -79.4191599,
       "stopId": "0822",
       "tag": "9523",
-      "title": "College St At Crawford St"
+      "title": "College St At Crawford St",
     },
     Object {
       "lat": 43.6549,
       "lon": -79.41573,
       "stopId": "0832",
       "tag": "9798",
-      "title": "College St At Grace St"
+      "title": "College St At Grace St",
     },
     Object {
       "lat": 43.6551399,
       "lon": -79.41394,
       "stopId": "0820",
       "tag": "2977",
-      "title": "College St At Clinton St"
+      "title": "College St At Clinton St",
     },
     Object {
       "lat": 43.65561,
       "lon": -79.4114599,
       "stopId": "0830",
       "tag": "6387",
-      "title": "College St At Euclid Ave"
+      "title": "College St At Euclid Ave",
     },
     Object {
       "lat": 43.6563499,
       "lon": -79.40785,
       "stopId": "0811",
       "tag": "1403",
-      "title": "College St At Bathurst St"
+      "title": "College St At Bathurst St",
     },
     Object {
       "lat": 43.65687,
       "lon": -79.4052799,
       "stopId": "0816",
       "tag": "4638",
-      "title": "College St At Borden St"
+      "title": "College St At Borden St",
     },
     Object {
       "lat": 43.6572599,
       "lon": -79.40326,
       "stopId": "0809",
       "tag": "6774",
-      "title": "College St At Augusta Ave"
+      "title": "College St At Augusta Ave",
     },
     Object {
       "lat": 43.6578199,
       "lon": -79.4004,
       "stopId": "0843",
       "tag": "1010",
-      "title": "College St At Spadina Ave"
+      "title": "College St At Spadina Ave",
     },
     Object {
       "lat": 43.65855,
       "lon": -79.3963699,
       "stopId": "0815",
       "tag": "2748",
-      "title": "College St At Beverley St"
+      "title": "College St At Beverley St",
     },
     Object {
       "lat": 43.6590699,
       "lon": -79.39372,
       "stopId": "0837",
       "tag": "1459",
-      "title": "College St At McCaul St"
+      "title": "College St At McCaul St",
     },
     Object {
       "lat": 43.65971,
       "lon": -79.3907699,
       "stopId": "0847",
       "tag": "3206",
-      "title": "College St At University Ave (Queen\'S Park Station)"
+      "title": "College St At University Ave (Queen\'S Park Station)",
     },
     Object {
       "lat": 43.66041,
       "lon": -79.3875799,
       "stopId": "0828",
       "tag": "7426",
-      "title": "College St At Elizabeth St"
+      "title": "College St At Elizabeth St",
     },
     Object {
       "lat": 43.66074,
       "lon": -79.3861399,
       "stopId": "0813",
       "tag": "5462",
-      "title": "College St At Bay St"
+      "title": "College St At Bay St",
     },
     Object {
       "lat": 43.6612599,
       "lon": -79.38329,
       "stopId": "0848",
       "tag": "4865",
-      "title": "College St At Yonge St (College Station)"
+      "title": "College St At Yonge St (College Station)",
     },
     Object {
       "lat": 43.66174,
       "lon": -79.3796399,
       "stopId": "0751",
       "tag": "3962",
-      "title": "Carlton St At Church St"
+      "title": "Carlton St At Church St",
     },
     Object {
       "lat": 43.66233,
       "lon": -79.3768499,
       "stopId": "0753",
       "tag": "5993",
-      "title": "Carlton St At Jarvis St"
+      "title": "Carlton St At Jarvis St",
     },
     Object {
       "lat": 43.6631,
       "lon": -79.3731799,
       "stopId": "0758",
       "tag": "1942",
-      "title": "Carlton St At Sherbourne St"
+      "title": "Carlton St At Sherbourne St",
     },
     Object {
       "lat": 43.6636299,
       "lon": -79.37067,
       "stopId": "0755",
       "tag": "7913",
-      "title": "Carlton St At Ontario St"
+      "title": "Carlton St At Ontario St",
     },
     Object {
       "lat": 43.66416,
       "lon": -79.3681999,
       "stopId": "0757",
       "tag": "2350",
-      "title": "Carlton St At Parliament St"
+      "title": "Carlton St At Parliament St",
     },
     Object {
       "lat": 43.6620599,
       "lon": -79.36715,
       "stopId": "1452",
       "tag": "615",
-      "title": "Parliament St At Gerrard St East"
+      "title": "Parliament St At Gerrard St East",
     },
     Object {
       "lat": 43.6624999,
       "lon": -79.36421,
       "stopId": "1106",
       "tag": "3246",
-      "title": "Gerrard St East At Sackville St"
+      "title": "Gerrard St East At Sackville St",
     },
     Object {
       "lat": 43.66308,
       "lon": -79.3616099,
       "stopId": "1109",
       "tag": "2676",
-      "title": "Gerrard St East At Sumach St"
+      "title": "Gerrard St East At Sumach St",
     },
     Object {
       "lat": 43.6635799,
       "lon": -79.35935,
       "stopId": "1104",
       "tag": "6259",
-      "title": "Gerrard St East At River St"
+      "title": "Gerrard St East At River St",
     },
     Object {
       "lat": 43.6646899,
       "lon": -79.35539,
       "stopId": "1080",
       "tag": "688",
-      "title": "Gerrard St East At Blackburn St"
+      "title": "Gerrard St East At Blackburn St",
     },
     Object {
       "lat": 43.6653999,
       "lon": -79.35291,
       "stopId": "1081",
       "tag": "3903",
-      "title": "Gerrard St East At Broadview Ave"
+      "title": "Gerrard St East At Broadview Ave",
     },
     Object {
       "lat": 43.6662399,
       "lon": -79.34871,
       "stopId": "1087",
       "tag": "9320",
-      "title": "Gerrard St East At Degrassi St"
+      "title": "Gerrard St East At Degrassi St",
     },
     Object {
       "lat": 43.6669999,
       "lon": -79.34533,
       "stopId": "1096",
       "tag": "8985",
-      "title": "Gerrard St East At Logan Ave"
+      "title": "Gerrard St East At Logan Ave",
     },
     Object {
       "lat": 43.66751,
       "lon": -79.3429899,
       "stopId": "1083",
       "tag": "3762",
-      "title": "Gerrard St East At Carlaw Ave"
+      "title": "Gerrard St East At Carlaw Ave",
     },
     Object {
       "lat": 43.6680899,
       "lon": -79.34049,
       "stopId": "1100",
       "tag": "10311",
-      "title": "Gerrard St East At Pape Ave"
+      "title": "Gerrard St East At Pape Ave",
     },
     Object {
       "lat": 43.66873,
       "lon": -79.3376399,
       "stopId": "1098",
       "tag": "7733",
-      "title": "Gerrard St East At Marjory Ave"
+      "title": "Gerrard St East At Marjory Ave",
     },
     Object {
       "lat": 43.6691399,
       "lon": -79.33578,
       "stopId": "1092",
       "tag": "4921",
-      "title": "Gerrard St East At Jones Ave"
+      "title": "Gerrard St East At Jones Ave",
     },
     Object {
       "lat": 43.66971,
       "lon": -79.3332599,
       "stopId": "1094",
       "tag": "4875",
-      "title": "Gerrard St East At Leslie St"
+      "title": "Gerrard St East At Leslie St",
     },
     Object {
       "lat": 43.6702499,
       "lon": -79.3308,
       "stopId": "1077",
       "tag": "10305",
-      "title": "Gerrard St East At Alton Ave"
+      "title": "Gerrard St East At Alton Ave",
     },
     Object {
       "lat": 43.6708499,
       "lon": -79.32815,
       "stopId": "1089",
       "tag": "6955",
-      "title": "Gerrard St East At Greenwood Ave"
+      "title": "Gerrard St East At Greenwood Ave",
     },
     Object {
       "lat": 43.67174,
       "lon": -79.3241899,
       "stopId": "1112",
       "tag": "3567",
-      "title": "Gerrard St East At Woodfield Rd"
+      "title": "Gerrard St East At Woodfield Rd",
     },
     Object {
       "lat": 43.67223,
       "lon": -79.3220199,
       "stopId": "1078",
       "tag": "3368",
-      "title": "Gerrard St East At Ashdale Ave"
+      "title": "Gerrard St East At Ashdale Ave",
     },
     Object {
       "lat": 43.6727699,
       "lon": -79.31953,
       "stopId": "1085",
       "tag": "3797",
-      "title": "Gerrard St East At Coxwell Ave"
+      "title": "Gerrard St East At Coxwell Ave",
     },
     Object {
       "lat": 43.6751,
       "lon": -79.3201,
       "stopId": "1800",
       "tag": "8980",
-      "title": "Coxwell Ave At Upper Gerrard St East"
+      "title": "Coxwell Ave At Upper Gerrard St East",
     },
     Object {
       "lat": 43.67606,
       "lon": -79.3170899,
       "stopId": "1113",
       "tag": "8633",
-      "title": "Gerrard St East At Beaton Ave"
+      "title": "Gerrard St East At Beaton Ave",
     },
     Object {
       "lat": 43.6779299,
       "lon": -79.31507,
       "stopId": "1115",
       "tag": "963",
-      "title": "Gerrard St East At Bowmore Rd"
+      "title": "Gerrard St East At Bowmore Rd",
     },
     Object {
       "lat": 43.6795399,
       "lon": -79.3129,
       "stopId": "1122",
       "tag": "4705",
-      "title": "Gerrard St East At Kingsmount Park Rd"
+      "title": "Gerrard St East At Kingsmount Park Rd",
     },
     Object {
       "lat": 43.68069,
       "lon": -79.3108699,
       "stopId": "1127",
       "tag": "3478",
-      "title": "Gerrard St East At Woodbine Ave"
+      "title": "Gerrard St East At Woodbine Ave",
     },
     Object {
       "lat": 43.68167,
       "lon": -79.3088599,
       "stopId": "1120",
       "tag": "6022",
-      "title": "Gerrard St East At Golfview Ave"
+      "title": "Gerrard St East At Golfview Ave",
     },
     Object {
       "lat": 43.68257,
       "lon": -79.3061799,
       "stopId": "1118",
       "tag": "1201",
-      "title": "Gerrard St East At Glenmount Park Rd"
+      "title": "Gerrard St East At Glenmount Park Rd",
     },
     Object {
       "lat": 43.6832699,
       "lon": -79.30316,
       "stopId": "1125",
       "tag": "9851",
-      "title": "Gerrard St East At Norwood Rd"
+      "title": "Gerrard St East At Norwood Rd",
     },
     Object {
       "lat": 43.68387,
       "lon": -79.3004099,
       "stopId": "1124",
       "tag": "8500",
-      "title": "Gerrard St East At Main St"
+      "title": "Gerrard St East At Main St",
     },
     Object {
       "lat": 43.68804,
       "lon": -79.30165,
       "stopId": "1262",
       "tag": "549",
-      "title": "Main St At Danforth Ave"
+      "title": "Main St At Danforth Ave",
     },
     Object {
       "lat": 43.6888599,
       "lon": -79.3018,
       "tag": "14260_ar",
-      "title": "Main Street Station"
+      "title": "Main Street Station",
     },
     Object {
       "lat": 43.6888599,
       "lon": -79.3018,
       "stopId": "14741",
       "tag": "14260",
-      "title": "Main Street Station"
+      "title": "Main Street Station",
     },
     Object {
       "lat": 43.6882999,
       "lon": -79.3019999,
       "stopId": "1263",
       "tag": "3867",
-      "title": "Main St At Danforth Ave"
+      "title": "Main St At Danforth Ave",
     },
     Object {
       "lat": 43.68417,
       "lon": -79.3002999,
       "stopId": "13923",
       "tag": "553",
-      "title": "Main St At Gerrard St East"
+      "title": "Main St At Gerrard St East",
     },
     Object {
       "lat": 43.68346,
       "lon": -79.3027399,
       "stopId": "1126",
       "tag": "800",
-      "title": "Gerrard St East At Norwood Rd"
+      "title": "Gerrard St East At Norwood Rd",
     },
     Object {
       "lat": 43.68276,
       "lon": -79.3058899,
       "stopId": "1119",
       "tag": "8056",
-      "title": "Gerrard St East At Glenmount Park Rd"
+      "title": "Gerrard St East At Glenmount Park Rd",
     },
     Object {
       "lat": 43.6820899,
       "lon": -79.3082899,
       "stopId": "1121",
       "tag": "4414",
-      "title": "Gerrard St East At Golfview Ave"
+      "title": "Gerrard St East At Golfview Ave",
     },
     Object {
       "lat": 43.68097,
       "lon": -79.3105099,
       "stopId": "1128",
       "tag": "2621",
-      "title": "Gerrard St East At Woodbine Ave"
+      "title": "Gerrard St East At Woodbine Ave",
     },
     Object {
       "lat": 43.67985,
       "lon": -79.3126599,
       "stopId": "1123",
       "tag": "1268",
-      "title": "Gerrard St East At Kingsmount Park Rd"
+      "title": "Gerrard St East At Kingsmount Park Rd",
     },
     Object {
       "lat": 43.6781699,
       "lon": -79.31492,
       "stopId": "1116",
       "tag": "6656",
-      "title": "Gerrard St East At Bowmore Rd"
+      "title": "Gerrard St East At Bowmore Rd",
     },
     Object {
       "lat": 43.6762799,
       "lon": -79.31688,
       "stopId": "1114",
       "tag": "4443",
-      "title": "Gerrard St East At Beaton Ave"
+      "title": "Gerrard St East At Beaton Ave",
     },
     Object {
       "lat": 43.6755499,
       "lon": -79.3200199,
       "stopId": "1117",
       "tag": "4650",
-      "title": "Gerrard St East At Coxwell Ave"
+      "title": "Gerrard St East At Coxwell Ave",
     },
     Object {
       "lat": 43.6731199,
       "lon": -79.31943,
       "stopId": "1794",
       "tag": "10283",
-      "title": "Coxwell Ave At Lower Gerrard St East"
+      "title": "Coxwell Ave At Lower Gerrard St East",
     },
     Object {
       "lat": 43.6723899,
       "lon": -79.32171,
       "stopId": "1079",
       "tag": "2048",
-      "title": "Gerrard St East At Ashdale Ave"
+      "title": "Gerrard St East At Ashdale Ave",
     },
     Object {
       "lat": 43.6716899,
       "lon": -79.32479,
       "stopId": "1091",
       "tag": "6873",
-      "title": "Gerrard St East At Highfield Rd"
+      "title": "Gerrard St East At Highfield Rd",
     },
     Object {
       "lat": 43.6709999,
       "lon": -79.32785,
       "stopId": "1090",
       "tag": "4325",
-      "title": "Gerrard St East At Greenwood Ave"
+      "title": "Gerrard St East At Greenwood Ave",
     },
     Object {
       "lat": 43.6704499,
       "lon": -79.33034,
       "stopId": "1103",
       "tag": "1123",
-      "title": "Gerrard St East At Prust Ave"
+      "title": "Gerrard St East At Prust Ave",
     },
     Object {
       "lat": 43.6698799,
       "lon": -79.33293,
       "stopId": "1095",
       "tag": "7935",
-      "title": "Gerrard St East At Leslie St"
+      "title": "Gerrard St East At Leslie St",
     },
     Object {
       "lat": 43.66933,
       "lon": -79.3354199,
       "stopId": "1093",
       "tag": "3292",
-      "title": "Gerrard St East At Jones Ave"
+      "title": "Gerrard St East At Jones Ave",
     },
     Object {
       "lat": 43.66886,
       "lon": -79.3374499,
       "stopId": "1099",
       "tag": "971",
-      "title": "Gerrard St East At Marjory Ave"
+      "title": "Gerrard St East At Marjory Ave",
     },
     Object {
       "lat": 43.6682299,
       "lon": -79.34025,
       "stopId": "1101",
       "tag": "3164",
-      "title": "Gerrard St East At Pape Ave"
+      "title": "Gerrard St East At Pape Ave",
     },
     Object {
       "lat": 43.6677299,
       "lon": -79.34251,
       "stopId": "1084",
       "tag": "8702",
-      "title": "Gerrard St East At Carlaw Ave"
+      "title": "Gerrard St East At Carlaw Ave",
     },
     Object {
       "lat": 43.66717,
       "lon": -79.3450699,
       "stopId": "1097",
       "tag": "10019",
-      "title": "Gerrard St East At Logan Ave"
+      "title": "Gerrard St East At Logan Ave",
     },
     Object {
       "lat": 43.6664199,
       "lon": -79.34841,
       "stopId": "1086",
       "tag": "7703",
-      "title": "Gerrard St East At Degrassi St"
+      "title": "Gerrard St East At Degrassi St",
     },
     Object {
       "lat": 43.6655599,
       "lon": -79.35236,
       "stopId": "1082",
       "tag": "4575",
-      "title": "Gerrard St East At Broadview Ave"
+      "title": "Gerrard St East At Broadview Ave",
     },
     Object {
       "lat": 43.66498,
       "lon": -79.3548999,
       "stopId": "1108",
       "tag": "8991",
-      "title": "Gerrard St East At St Matthews Rd"
+      "title": "Gerrard St East At St Matthews Rd",
     },
     Object {
       "lat": 43.6638,
       "lon": -79.3590699,
       "stopId": "1105",
       "tag": "7379",
-      "title": "Gerrard St East At River St"
+      "title": "Gerrard St East At River St",
     },
     Object {
       "lat": 43.6632599,
       "lon": -79.36125,
       "stopId": "1110",
       "tag": "2976",
-      "title": "Gerrard St East At Sumach St"
+      "title": "Gerrard St East At Sumach St",
     },
     Object {
       "lat": 43.6626899,
       "lon": -79.36389,
       "stopId": "1107",
       "tag": "2615",
-      "title": "Gerrard St East At Sackville St"
+      "title": "Gerrard St East At Sackville St",
     },
     Object {
       "lat": 43.6620599,
       "lon": -79.36677,
       "stopId": "1102",
       "tag": "7132",
-      "title": "Gerrard St East At Parliament St"
+      "title": "Gerrard St East At Parliament St",
     },
     Object {
       "lat": 43.66407,
       "lon": -79.36783,
       "stopId": "1451",
       "tag": "614",
-      "title": "Parliament St At Carlton St"
+      "title": "Parliament St At Carlton St",
     },
     Object {
       "lat": 43.66383,
       "lon": -79.3703599,
       "stopId": "0756",
       "tag": "1694",
-      "title": "Carlton St At Ontario St"
+      "title": "Carlton St At Ontario St",
     },
     Object {
       "lat": 43.6632899,
       "lon": -79.3729,
       "stopId": "0759",
       "tag": "2737",
-      "title": "Carlton St At Sherbourne St"
+      "title": "Carlton St At Sherbourne St",
     },
     Object {
       "lat": 43.6625099,
       "lon": -79.37657,
       "stopId": "0754",
       "tag": "4797",
-      "title": "Carlton St At Jarvis St"
+      "title": "Carlton St At Jarvis St",
     },
     Object {
       "lat": 43.662,
       "lon": -79.3791099,
       "stopId": "0752",
       "tag": "1016",
-      "title": "Carlton St At Church St"
+      "title": "Carlton St At Church St",
     },
     Object {
       "lat": 43.6614499,
       "lon": -79.38295,
       "stopId": "0760",
       "tag": "3548",
-      "title": "Carlton St At Yonge St (College Station)"
+      "title": "Carlton St At Yonge St (College Station)",
     },
     Object {
       "lat": 43.66092,
       "lon": -79.3856099,
       "stopId": "0814",
       "tag": "7982",
-      "title": "College St At Bay St"
+      "title": "College St At Bay St",
     },
     Object {
       "lat": 43.6606199,
       "lon": -79.38727,
       "stopId": "0829",
       "tag": "8914",
-      "title": "College St At Elizabeth St"
+      "title": "College St At Elizabeth St",
     },
     Object {
       "lat": 43.66002,
       "lon": -79.3901199,
       "stopId": "0841",
       "tag": "5948",
-      "title": "College St At Queen\'S Park (Queen\'S Park Station)"
+      "title": "College St At Queen\'S Park (Queen\'S Park Station)",
     },
     Object {
       "lat": 43.65931,
       "lon": -79.3932799,
       "stopId": "0838",
       "tag": "10367",
-      "title": "College St At McCaul St"
+      "title": "College St At McCaul St",
     },
     Object {
       "lat": 43.6588099,
       "lon": -79.39575,
       "stopId": "0845",
       "tag": "5013",
-      "title": "College St At St George St"
+      "title": "College St At St George St",
     },
     Object {
       "lat": 43.6580599,
       "lon": -79.39969,
       "stopId": "0844",
       "tag": "9193",
-      "title": "College St At Spadina Ave"
+      "title": "College St At Spadina Ave",
     },
     Object {
       "lat": 43.65754,
       "lon": -79.4026599,
       "stopId": "10151",
       "tag": "1782",
-      "title": "College St At Major St"
+      "title": "College St At Major St",
     },
     Object {
       "lat": 43.65707,
       "lon": -79.4050199,
       "stopId": "0817",
       "tag": "2878",
-      "title": "College St At Borden St"
+      "title": "College St At Borden St",
     },
     Object {
       "lat": 43.6566,
       "lon": -79.4074599,
       "stopId": "0812",
       "tag": "1566",
-      "title": "College St At Bathurst St"
+      "title": "College St At Bathurst St",
     },
     Object {
       "lat": 43.65582,
       "lon": -79.4112899,
       "stopId": "0831",
       "tag": "8274",
-      "title": "College St At Euclid Ave"
+      "title": "College St At Euclid Ave",
     },
     Object {
       "lat": 43.65529,
       "lon": -79.4137399,
       "stopId": "0821",
       "tag": "9200",
-      "title": "College St At Clinton St"
+      "title": "College St At Clinton St",
     },
     Object {
       "lat": 43.6549899,
       "lon": -79.4154299,
       "stopId": "0833",
       "tag": "8416",
-      "title": "College St At Grace St"
+      "title": "College St At Grace St",
     },
     Object {
       "lat": 43.6552399,
       "lon": -79.4188699,
       "stopId": "0823",
       "tag": "2568",
-      "title": "College St At Crawford St"
+      "title": "College St At Crawford St",
     },
     Object {
       "lat": 43.6544699,
       "lon": -79.42254,
       "stopId": "0840",
       "tag": "8354",
-      "title": "College St At Ossington Ave"
+      "title": "College St At Ossington Ave",
     },
     Object {
       "lat": 43.65369,
       "lon": -79.4262599,
       "stopId": "0825",
       "tag": "4012",
-      "title": "College St At Dovercourt Rd"
+      "title": "College St At Dovercourt Rd",
     },
     Object {
       "lat": 43.65306,
       "lon": -79.4292799,
       "stopId": "0834",
       "tag": "3069",
-      "title": "College St At Havelock St"
+      "title": "College St At Havelock St",
     },
     Object {
       "lat": 43.65265,
       "lon": -79.4323599,
       "stopId": "0827",
       "tag": "1039",
-      "title": "College St At Dufferin St"
+      "title": "College St At Dufferin St",
     },
     Object {
       "lat": 43.6518899,
       "lon": -79.43621,
       "stopId": "0819",
       "tag": "10033",
-      "title": "College St At Brock Ave"
+      "title": "College St At Brock Ave",
     },
     Object {
       "lat": 43.6512,
       "lon": -79.4396999,
       "stopId": "0836",
       "tag": "8135",
-      "title": "College St At Lansdowne Ave"
+      "title": "College St At Lansdowne Ave",
     },
     Object {
       "lat": 43.6506499,
       "lon": -79.4426299,
       "stopId": "0990",
       "tag": "4902",
-      "title": "Dundas St West At Sterling Rd"
+      "title": "Dundas St West At Sterling Rd",
     },
     Object {
       "lat": 43.6511999,
       "lon": -79.4450099,
       "stopId": "0988",
       "tag": "1195",
-      "title": "Dundas St West At Sorauren Ave"
+      "title": "Dundas St West At Sorauren Ave",
     },
     Object {
       "lat": 43.65191,
       "lon": -79.44751,
       "stopId": "0986",
       "tag": "5094",
-      "title": "Dundas St West At Howard Park Ave"
+      "title": "Dundas St West At Howard Park Ave",
     },
     Object {
       "lat": 43.6515899,
       "lon": -79.45081,
       "stopId": "1155",
       "tag": "9132",
-      "title": "Howard Park Ave At Roncesvalles Ave"
+      "title": "Howard Park Ave At Roncesvalles Ave",
     },
     Object {
       "lat": 43.65077,
       "lon": -79.4548699,
       "stopId": "1151",
       "tag": "8457",
-      "title": "Howard Park Ave At Indian Rd"
+      "title": "Howard Park Ave At Indian Rd",
     },
     Object {
       "lat": 43.6491499,
       "lon": -79.45744,
       "stopId": "1153",
       "tag": "4538",
-      "title": "Howard Park Ave At Parkside Dr"
+      "title": "Howard Park Ave At Parkside Dr",
     },
     Object {
       "lat": 43.65106,
       "lon": -79.45841,
       "stopId": "15399",
       "tag": "15266",
-      "title": "Parkside Dr At Indian Valley Cres South Side"
+      "title": "Parkside Dr At Indian Valley Cres South Side",
     },
     Object {
       "lat": 43.6539999,
       "lon": -79.46641,
       "tag": "14215_ar",
-      "title": "High Park Station"
+      "title": "High Park Station",
     },
     Object {
       "lat": 43.6585899,
       "lon": -79.3850099,
       "stopId": "0249",
       "tag": "2200",
-      "title": "Bay St At Gerrard St West"
+      "title": "Bay St At Gerrard St West",
     },
     Object {
       "lat": 43.6574099,
       "lon": -79.3845299,
       "stopId": "0245",
       "tag": "7967",
-      "title": "Bay St At Elm St"
+      "title": "Bay St At Elm St",
     },
     Object {
       "lat": 43.6558399,
       "lon": -79.3838599,
       "stopId": "0242",
       "tag": "7505",
-      "title": "Bay St At Dundas St West (Toronto Coach Terminal)"
+      "title": "Bay St At Dundas St West (Toronto Coach Terminal)",
     },
     Object {
       "lat": 43.6553399,
       "lon": -79.38587,
       "stopId": "2154",
       "tag": "7264",
-      "title": "Dundas St West At Chestnut St"
+      "title": "Dundas St West At Chestnut St",
     },
     Object {
       "lat": 43.6548999,
       "lon": -79.38786,
       "stopId": "2194",
       "tag": "9824",
-      "title": "Dundas St West At University Ave (St Patrick Station)"
+      "title": "Dundas St West At University Ave (St Patrick Station)",
     },
     Object {
       "lat": 43.6544099,
       "lon": -79.39122,
       "stopId": "2174",
       "tag": "6087",
-      "title": "Dundas St West At McCaul St"
+      "title": "Dundas St West At McCaul St",
     },
     Object {
       "lat": 43.6538899,
       "lon": -79.39372,
       "stopId": "2147",
       "tag": "2368",
-      "title": "Dundas St West At Beverley St"
+      "title": "Dundas St West At Beverley St",
     },
     Object {
       "lat": 43.65341,
       "lon": -79.3960399,
       "stopId": "2169",
       "tag": "7867",
-      "title": "Dundas St West At Huron St"
+      "title": "Dundas St West At Huron St",
     },
     Object {
       "lat": 43.6530599,
       "lon": -79.39771,
       "stopId": "2190",
       "tag": "1212",
-      "title": "Dundas St West At Spadina Ave"
+      "title": "Dundas St West At Spadina Ave",
     },
     Object {
       "lat": 43.65342,
       "lon": -79.39802,
       "stopId": "7349",
       "tag": "1138",
-      "title": "Spadina Ave At Dundas St West North Side"
+      "title": "Spadina Ave At Dundas St West North Side",
     },
     Object {
       "lat": 43.6556699,
       "lon": -79.39889,
       "stopId": "11986",
       "tag": "6577",
-      "title": "Spadina Ave At Nassau St"
-    }
+      "title": "Spadina Ave At Nassau St",
+    },
   ],
   "tag": "506",
-  "title": "506-Carlton"
+  "title": "506-Carlton",
 }
 `;
 
@@ -4310,751 +4310,751 @@ exports[`nextbus getRoutes gets routes 1`] = `
 Array [
   Object {
     "tag": "5",
-    "title": "5-Avenue Rd"
+    "title": "5-Avenue Rd",
   },
   Object {
     "tag": "6",
-    "title": "6-Bay"
+    "title": "6-Bay",
   },
   Object {
     "tag": "7",
-    "title": "7-Bathurst"
+    "title": "7-Bathurst",
   },
   Object {
     "tag": "8",
-    "title": "8-Broadview"
+    "title": "8-Broadview",
   },
   Object {
     "tag": "9",
-    "title": "9-Bellamy"
+    "title": "9-Bellamy",
   },
   Object {
     "tag": "10",
-    "title": "10-Van Horne"
+    "title": "10-Van Horne",
   },
   Object {
     "tag": "11",
-    "title": "11-Bayview"
+    "title": "11-Bayview",
   },
   Object {
     "tag": "12",
-    "title": "12-Kingston Rd"
+    "title": "12-Kingston Rd",
   },
   Object {
     "tag": "14",
-    "title": "14-Glencairn"
+    "title": "14-Glencairn",
   },
   Object {
     "tag": "15",
-    "title": "15-Evans"
+    "title": "15-Evans",
   },
   Object {
     "tag": "16",
-    "title": "16-McCowan"
+    "title": "16-McCowan",
   },
   Object {
     "tag": "17",
-    "title": "17-Birchmount"
+    "title": "17-Birchmount",
   },
   Object {
     "tag": "20",
-    "title": "20-Cliffside"
+    "title": "20-Cliffside",
   },
   Object {
     "tag": "21",
-    "title": "21-Brimley"
+    "title": "21-Brimley",
   },
   Object {
     "tag": "22",
-    "title": "22-Coxwell"
+    "title": "22-Coxwell",
   },
   Object {
     "tag": "23",
-    "title": "23-Dawes"
+    "title": "23-Dawes",
   },
   Object {
     "tag": "24",
-    "title": "24-Victoria Park"
+    "title": "24-Victoria Park",
   },
   Object {
     "tag": "25",
-    "title": "25-Don Mills"
+    "title": "25-Don Mills",
   },
   Object {
     "tag": "26",
-    "title": "26-Dupont"
+    "title": "26-Dupont",
   },
   Object {
     "tag": "28",
-    "title": "28-Davisville"
+    "title": "28-Davisville",
   },
   Object {
     "tag": "29",
-    "title": "29-Dufferin"
+    "title": "29-Dufferin",
   },
   Object {
     "tag": "30",
-    "title": "30-Lambton"
+    "title": "30-Lambton",
   },
   Object {
     "tag": "31",
-    "title": "31-Greenwood"
+    "title": "31-Greenwood",
   },
   Object {
     "tag": "32",
-    "title": "32-Eglinton West"
+    "title": "32-Eglinton West",
   },
   Object {
     "tag": "33",
-    "title": "33-Forest Hill"
+    "title": "33-Forest Hill",
   },
   Object {
     "tag": "34",
-    "title": "34-Eglinton East"
+    "title": "34-Eglinton East",
   },
   Object {
     "tag": "35",
-    "title": "35-Jane"
+    "title": "35-Jane",
   },
   Object {
     "tag": "36",
-    "title": "36-Finch West"
+    "title": "36-Finch West",
   },
   Object {
     "tag": "37",
-    "title": "37-Islington"
+    "title": "37-Islington",
   },
   Object {
     "tag": "38",
-    "title": "38-Highland Creek"
+    "title": "38-Highland Creek",
   },
   Object {
     "tag": "39",
-    "title": "39-Finch East"
+    "title": "39-Finch East",
   },
   Object {
     "tag": "40",
-    "title": "40-Junction"
+    "title": "40-Junction",
   },
   Object {
     "tag": "41",
-    "title": "41-Keele"
+    "title": "41-Keele",
   },
   Object {
     "tag": "42",
-    "title": "42-Cummer"
+    "title": "42-Cummer",
   },
   Object {
     "tag": "43",
-    "title": "43-Kennedy"
+    "title": "43-Kennedy",
   },
   Object {
     "tag": "44",
-    "title": "44-Kipling South"
+    "title": "44-Kipling South",
   },
   Object {
     "tag": "45",
-    "title": "45-Kipling"
+    "title": "45-Kipling",
   },
   Object {
     "tag": "46",
-    "title": "46-Martin Grove"
+    "title": "46-Martin Grove",
   },
   Object {
     "tag": "47",
-    "title": "47-Lansdowne"
+    "title": "47-Lansdowne",
   },
   Object {
     "tag": "48",
-    "title": "48-Rathburn"
+    "title": "48-Rathburn",
   },
   Object {
     "tag": "49",
-    "title": "49-Bloor West"
+    "title": "49-Bloor West",
   },
   Object {
     "tag": "50",
-    "title": "50-Burnhamthorpe"
+    "title": "50-Burnhamthorpe",
   },
   Object {
     "tag": "51",
-    "title": "51-Leslie"
+    "title": "51-Leslie",
   },
   Object {
     "tag": "52",
-    "title": "52-Lawrence West"
+    "title": "52-Lawrence West",
   },
   Object {
     "tag": "53",
-    "title": "53-Steeles East"
+    "title": "53-Steeles East",
   },
   Object {
     "tag": "54",
-    "title": "54-Lawrence East"
+    "title": "54-Lawrence East",
   },
   Object {
     "tag": "55",
-    "title": "55-Warren Park"
+    "title": "55-Warren Park",
   },
   Object {
     "tag": "56",
-    "title": "56-Leaside"
+    "title": "56-Leaside",
   },
   Object {
     "tag": "57",
-    "title": "57-Midland"
+    "title": "57-Midland",
   },
   Object {
     "tag": "59",
-    "title": "59-Maple Leaf"
+    "title": "59-Maple Leaf",
   },
   Object {
     "tag": "60",
-    "title": "60-Steeles West"
+    "title": "60-Steeles West",
   },
   Object {
     "tag": "61",
-    "title": "61-Avenue Road North"
+    "title": "61-Avenue Road North",
   },
   Object {
     "tag": "62",
-    "title": "62-Mortimer"
+    "title": "62-Mortimer",
   },
   Object {
     "tag": "63",
-    "title": "63-Ossington"
+    "title": "63-Ossington",
   },
   Object {
     "tag": "64",
-    "title": "64-Main"
+    "title": "64-Main",
   },
   Object {
     "tag": "65",
-    "title": "65-Parliament"
+    "title": "65-Parliament",
   },
   Object {
     "tag": "66",
-    "title": "66-Prince Edward"
+    "title": "66-Prince Edward",
   },
   Object {
     "tag": "67",
-    "title": "67-Pharmacy"
+    "title": "67-Pharmacy",
   },
   Object {
     "tag": "68",
-    "title": "68-Warden"
+    "title": "68-Warden",
   },
   Object {
     "tag": "69",
-    "title": "69-Warden South"
+    "title": "69-Warden South",
   },
   Object {
     "tag": "70",
-    "title": "70-O\'Connor"
+    "title": "70-O\'Connor",
   },
   Object {
     "tag": "71",
-    "title": "71-Runnymede"
+    "title": "71-Runnymede",
   },
   Object {
     "tag": "72",
-    "title": "72-Pape"
+    "title": "72-Pape",
   },
   Object {
     "tag": "73",
-    "title": "73-Royal York"
+    "title": "73-Royal York",
   },
   Object {
     "tag": "74",
-    "title": "74-Mt Pleasant"
+    "title": "74-Mt Pleasant",
   },
   Object {
     "tag": "75",
-    "title": "75-Sherbourne"
+    "title": "75-Sherbourne",
   },
   Object {
     "tag": "76",
-    "title": "76-Royal York South"
+    "title": "76-Royal York South",
   },
   Object {
     "tag": "77",
-    "title": "77-Swansea"
+    "title": "77-Swansea",
   },
   Object {
     "tag": "78",
-    "title": "78-St Andrews"
+    "title": "78-St Andrews",
   },
   Object {
     "tag": "79",
-    "title": "79-Scarlett Rd"
+    "title": "79-Scarlett Rd",
   },
   Object {
     "tag": "80",
-    "title": "80-Queensway"
+    "title": "80-Queensway",
   },
   Object {
     "tag": "81",
-    "title": "81-Thorncliffe Park"
+    "title": "81-Thorncliffe Park",
   },
   Object {
     "tag": "82",
-    "title": "82-Rosedale"
+    "title": "82-Rosedale",
   },
   Object {
     "tag": "83",
-    "title": "83-Jones"
+    "title": "83-Jones",
   },
   Object {
     "tag": "84",
-    "title": "84-Sheppard West"
+    "title": "84-Sheppard West",
   },
   Object {
     "tag": "85",
-    "title": "85-Sheppard East"
+    "title": "85-Sheppard East",
   },
   Object {
     "tag": "86",
-    "title": "86-Scarborough"
+    "title": "86-Scarborough",
   },
   Object {
     "tag": "87",
-    "title": "87-Cosburn"
+    "title": "87-Cosburn",
   },
   Object {
     "tag": "88",
-    "title": "88-South Leaside"
+    "title": "88-South Leaside",
   },
   Object {
     "tag": "89",
-    "title": "89-Weston"
+    "title": "89-Weston",
   },
   Object {
     "tag": "90",
-    "title": "90-Vaughan"
+    "title": "90-Vaughan",
   },
   Object {
     "tag": "91",
-    "title": "91-Woodbine"
+    "title": "91-Woodbine",
   },
   Object {
     "tag": "92",
-    "title": "92-Woodbine South"
+    "title": "92-Woodbine South",
   },
   Object {
     "tag": "94",
-    "title": "94-Wellesley"
+    "title": "94-Wellesley",
   },
   Object {
     "tag": "95",
-    "title": "95-York Mills"
+    "title": "95-York Mills",
   },
   Object {
     "tag": "96",
-    "title": "96-Wilson"
+    "title": "96-Wilson",
   },
   Object {
     "tag": "97",
-    "title": "97-Yonge"
+    "title": "97-Yonge",
   },
   Object {
     "tag": "98",
-    "title": "98-Willowdale - Senlac"
+    "title": "98-Willowdale - Senlac",
   },
   Object {
     "tag": "99",
-    "title": "99-Arrow Road"
+    "title": "99-Arrow Road",
   },
   Object {
     "tag": "100",
-    "title": "100-Flemingdon Park"
+    "title": "100-Flemingdon Park",
   },
   Object {
     "tag": "101",
-    "title": "101-Downsview Park"
+    "title": "101-Downsview Park",
   },
   Object {
     "tag": "102",
-    "title": "102-Markham Rd"
+    "title": "102-Markham Rd",
   },
   Object {
     "tag": "104",
-    "title": "104-Faywood"
+    "title": "104-Faywood",
   },
   Object {
     "tag": "105",
-    "title": "105-Dufferin North"
+    "title": "105-Dufferin North",
   },
   Object {
     "tag": "106",
-    "title": "106-York University"
+    "title": "106-York University",
   },
   Object {
     "tag": "107",
-    "title": "107-Keele North"
+    "title": "107-Keele North",
   },
   Object {
     "tag": "108",
-    "title": "108-Downsview"
+    "title": "108-Downsview",
   },
   Object {
     "tag": "109",
-    "title": "109-Ranee"
+    "title": "109-Ranee",
   },
   Object {
     "tag": "110",
-    "title": "110-Islington South"
+    "title": "110-Islington South",
   },
   Object {
     "tag": "111",
-    "title": "111-East Mall"
+    "title": "111-East Mall",
   },
   Object {
     "tag": "112",
-    "title": "112-West Mall"
+    "title": "112-West Mall",
   },
   Object {
     "tag": "113",
-    "title": "113-Danforth"
+    "title": "113-Danforth",
   },
   Object {
     "tag": "115",
-    "title": "115-Silver Hills"
+    "title": "115-Silver Hills",
   },
   Object {
     "tag": "116",
-    "title": "116-Morningside"
+    "title": "116-Morningside",
   },
   Object {
     "tag": "117",
-    "title": "117-Alness"
+    "title": "117-Alness",
   },
   Object {
     "tag": "118",
-    "title": "118-Thistle Down"
+    "title": "118-Thistle Down",
   },
   Object {
     "tag": "119",
-    "title": "119-Torbarrie"
+    "title": "119-Torbarrie",
   },
   Object {
     "tag": "120",
-    "title": "120-Calvington"
+    "title": "120-Calvington",
   },
   Object {
     "tag": "121",
-    "title": "121-Fort York - Esplanade"
+    "title": "121-Fort York - Esplanade",
   },
   Object {
     "tag": "122",
-    "title": "122-Graydon Hall"
+    "title": "122-Graydon Hall",
   },
   Object {
     "tag": "123",
-    "title": "123-Shorncliffe"
+    "title": "123-Shorncliffe",
   },
   Object {
     "tag": "124",
-    "title": "124-Sunnybrook"
+    "title": "124-Sunnybrook",
   },
   Object {
     "tag": "125",
-    "title": "125-Drewry"
+    "title": "125-Drewry",
   },
   Object {
     "tag": "126",
-    "title": "126-Christie"
+    "title": "126-Christie",
   },
   Object {
     "tag": "127",
-    "title": "127-Davenport"
+    "title": "127-Davenport",
   },
   Object {
     "tag": "129",
-    "title": "129-McCowan North"
+    "title": "129-McCowan North",
   },
   Object {
     "tag": "130",
-    "title": "130-Middlefield"
+    "title": "130-Middlefield",
   },
   Object {
     "tag": "131",
-    "title": "131-Nugget"
+    "title": "131-Nugget",
   },
   Object {
     "tag": "132",
-    "title": "132-Milner"
+    "title": "132-Milner",
   },
   Object {
     "tag": "133",
-    "title": "133-Neilson"
+    "title": "133-Neilson",
   },
   Object {
     "tag": "134",
-    "title": "134-Progress"
+    "title": "134-Progress",
   },
   Object {
     "tag": "135",
-    "title": "135-Gerrard"
+    "title": "135-Gerrard",
   },
   Object {
     "tag": "141",
-    "title": "141-Downtown/Mt Pleasant Express"
+    "title": "141-Downtown/Mt Pleasant Express",
   },
   Object {
     "tag": "142",
-    "title": "142-Downtown/Avenue Rd Express"
+    "title": "142-Downtown/Avenue Rd Express",
   },
   Object {
     "tag": "143",
-    "title": "143-Downtown/Beach Express"
+    "title": "143-Downtown/Beach Express",
   },
   Object {
     "tag": "144",
-    "title": "144-Downtown/Don Valley Express"
+    "title": "144-Downtown/Don Valley Express",
   },
   Object {
     "tag": "145",
-    "title": "145-Downtown/Humber Bay Express"
+    "title": "145-Downtown/Humber Bay Express",
   },
   Object {
     "tag": "160",
-    "title": "160-Bathurst North"
+    "title": "160-Bathurst North",
   },
   Object {
     "tag": "161",
-    "title": "161-Rogers Rd"
+    "title": "161-Rogers Rd",
   },
   Object {
     "tag": "162",
-    "title": "162-Lawrence - Donway"
+    "title": "162-Lawrence - Donway",
   },
   Object {
     "tag": "165",
-    "title": "165-Weston Rd North"
+    "title": "165-Weston Rd North",
   },
   Object {
     "tag": "167",
-    "title": "167-Pharmacy North"
+    "title": "167-Pharmacy North",
   },
   Object {
     "tag": "168",
-    "title": "168-Symington"
+    "title": "168-Symington",
   },
   Object {
     "tag": "169",
-    "title": "169-Huntingwood"
+    "title": "169-Huntingwood",
   },
   Object {
     "tag": "171",
-    "title": "171-Mount Dennis"
+    "title": "171-Mount Dennis",
   },
   Object {
     "tag": "185",
-    "title": "185-Don Mills Rocket"
+    "title": "185-Don Mills Rocket",
   },
   Object {
     "tag": "186",
-    "title": "186-Wilson Rocket"
+    "title": "186-Wilson Rocket",
   },
   Object {
     "tag": "188",
-    "title": "188-Kipling South Rocket"
+    "title": "188-Kipling South Rocket",
   },
   Object {
     "tag": "190",
-    "title": "190-Scarborough Centre Rocket"
+    "title": "190-Scarborough Centre Rocket",
   },
   Object {
     "tag": "191",
-    "title": "191-Highway 27 Rocket"
+    "title": "191-Highway 27 Rocket",
   },
   Object {
     "tag": "192",
-    "title": "192-Airport Rocket"
+    "title": "192-Airport Rocket",
   },
   Object {
     "tag": "195",
-    "title": "195-Jane Rocket"
+    "title": "195-Jane Rocket",
   },
   Object {
     "tag": "196",
-    "title": "196-York University Rocket"
+    "title": "196-York University Rocket",
   },
   Object {
     "tag": "198",
-    "title": "198-U Of T Scarborough Rocket"
+    "title": "198-U Of T Scarborough Rocket",
   },
   Object {
     "tag": "199",
-    "title": "199-Finch Rocket"
+    "title": "199-Finch Rocket",
   },
   Object {
     "tag": "300",
-    "title": "300-Bloor - Danforth"
+    "title": "300-Bloor - Danforth",
   },
   Object {
     "tag": "301",
-    "title": "301-Queen N.C."
+    "title": "301-Queen N.C.",
   },
   Object {
     "tag": "302",
-    "title": "302-Danforth Rd - McCowan"
+    "title": "302-Danforth Rd - McCowan",
   },
   Object {
     "tag": "304",
-    "title": "304-King"
+    "title": "304-King",
   },
   Object {
     "tag": "306",
-    "title": "306-Carlton"
+    "title": "306-Carlton",
   },
   Object {
     "tag": "307",
-    "title": "307-Bathurst"
+    "title": "307-Bathurst",
   },
   Object {
     "tag": "312",
-    "title": "312-St Clair-Junction Night Bus"
+    "title": "312-St Clair-Junction Night Bus",
   },
   Object {
     "tag": "315",
-    "title": "315-Evans - Brown\'S Line"
+    "title": "315-Evans - Brown\'S Line",
   },
   Object {
     "tag": "317",
-    "title": "317-Spadina N.C."
+    "title": "317-Spadina N.C.",
   },
   Object {
     "tag": "320",
-    "title": "320-Yonge"
+    "title": "320-Yonge",
   },
   Object {
     "tag": "322",
-    "title": "322-Coxwell"
+    "title": "322-Coxwell",
   },
   Object {
     "tag": "324",
-    "title": "324-Victoria Park"
+    "title": "324-Victoria Park",
   },
   Object {
     "tag": "325",
-    "title": "325-Don Mills"
+    "title": "325-Don Mills",
   },
   Object {
     "tag": "329",
-    "title": "329-Dufferin"
+    "title": "329-Dufferin",
   },
   Object {
     "tag": "332",
-    "title": "332-Eglinton West"
+    "title": "332-Eglinton West",
   },
   Object {
     "tag": "334",
-    "title": "334-Eglinton East"
+    "title": "334-Eglinton East",
   },
   Object {
     "tag": "335",
-    "title": "335-Jane"
+    "title": "335-Jane",
   },
   Object {
     "tag": "336",
-    "title": "336-Finch West"
+    "title": "336-Finch West",
   },
   Object {
     "tag": "337",
-    "title": "337-Islington"
+    "title": "337-Islington",
   },
   Object {
     "tag": "339",
-    "title": "339-Finch East"
+    "title": "339-Finch East",
   },
   Object {
     "tag": "341",
-    "title": "341-Keele"
+    "title": "341-Keele",
   },
   Object {
     "tag": "343",
-    "title": "343-Kennedy"
+    "title": "343-Kennedy",
   },
   Object {
     "tag": "352",
-    "title": "352-Lawrence West"
+    "title": "352-Lawrence West",
   },
   Object {
     "tag": "353",
-    "title": "353-Steeles"
+    "title": "353-Steeles",
   },
   Object {
     "tag": "354",
-    "title": "354-Lawrence East"
+    "title": "354-Lawrence East",
   },
   Object {
     "tag": "363",
-    "title": "363-Ossington"
+    "title": "363-Ossington",
   },
   Object {
     "tag": "365",
-    "title": "365-Parliament"
+    "title": "365-Parliament",
   },
   Object {
     "tag": "384",
-    "title": "384-Sheppard West"
+    "title": "384-Sheppard West",
   },
   Object {
     "tag": "385",
-    "title": "385-Sheppard East"
+    "title": "385-Sheppard East",
   },
   Object {
     "tag": "395",
-    "title": "395-York Mills"
+    "title": "395-York Mills",
   },
   Object {
     "tag": "396",
-    "title": "396-Wilson"
+    "title": "396-Wilson",
   },
   Object {
     "tag": "501",
-    "title": "501-Queen"
+    "title": "501-Queen",
   },
   Object {
     "tag": "502",
-    "title": "502-Downtowner"
+    "title": "502-Downtowner",
   },
   Object {
     "tag": "503",
-    "title": "503-Kingston Rd"
+    "title": "503-Kingston Rd",
   },
   Object {
     "tag": "504",
-    "title": "504-King"
+    "title": "504-King",
   },
   Object {
     "tag": "505",
-    "title": "505-Dundas"
+    "title": "505-Dundas",
   },
   Object {
     "tag": "506",
-    "title": "506-Carlton"
+    "title": "506-Carlton",
   },
   Object {
     "tag": "509",
-    "title": "509-Harbourfront"
+    "title": "509-Harbourfront",
   },
   Object {
     "tag": "510",
-    "title": "510-Spadina"
+    "title": "510-Spadina",
   },
   Object {
     "tag": "511",
-    "title": "511-Bathurst"
+    "title": "511-Bathurst",
   },
   Object {
     "tag": "512",
-    "title": "512-St Clair"
+    "title": "512-St Clair",
   },
   Object {
     "tag": "514",
-    "title": "514-Cherry"
-  }
+    "title": "514-Cherry",
+  },
 ]
 `;
