@@ -7,7 +7,7 @@
     "babel": "babel src --out-dir lib",
     "build": "del ./lib && npm run babel && npm run flow:gen-flow-files",
     "flow": "flow",
-    "flow:gen-flow-files": "for file in src/*.js; do flow gen-flow-files $file --out-dir lib; done",
+    "flow:gen-flow-files": "find ./src -iname '*.js' | while read file; do flow gen-flow-files $file --out-dir lib; done",
     "jest": "jest",
     "lint": "eslint src",
     "prepublish": "npm run build",
