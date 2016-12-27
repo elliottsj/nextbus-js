@@ -1,7 +1,4 @@
 [ignore]
-<PROJECT_ROOT>/lib/.*
-.*/node_modules/fbjs/.*
-.*/node_modules/flow-typed/.*
 
 [include]
 
@@ -11,3 +8,4 @@
 suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe
 suppress_comment= \\(.\\|\n\\)*\\$FlowIgnore
 suppress_comment= \\(.\\|\n\\)*\\$FlowIssue
+module.name_mapper='^isomorphic-fetch$' -> '<PROJECT_ROOT>/src/__mocks__/isomorphic-fetch.js'
