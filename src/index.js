@@ -66,7 +66,7 @@ type FetchNextBusXMLOptions = {
   query?: { [key: string]: string },
 };
 async function fetchNextBusXML(
-  { command, host, onRequest, protocol, query }: FetchNextBusXMLOptions
+  { command, host, onRequest, protocol, query }: FetchNextBusXMLOptions,
 ) {
   const uri = url.format({
     host,
@@ -76,7 +76,7 @@ async function fetchNextBusXML(
   });
   onRequest(uri);
   const response = await fetch(uri);
-  return await parseXML(await response.text());
+  return parseXML(await response.text());
 }
 
 /**
@@ -136,7 +136,7 @@ export default function nextbus({
           ...direction.$,
           useForUI: direction.$.useForUI === 'true',
           stops: direction.stop.map(
-            dirStop => stops.find(stop => stop.tag === dirStop.$.tag)
+            dirStop => stops.find(stop => stop.tag === dirStop.$.tag),
           ),
         })),
         paths: xml.body.route[0].path.map(
@@ -144,8 +144,8 @@ export default function nextbus({
             point => ({
               lat: Number.parseFloat(point.$.lat),
               lon: Number.parseFloat(point.$.lon),
-            })
-          )
+            }),
+          ),
         ),
         stops,
       };
