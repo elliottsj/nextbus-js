@@ -54,6 +54,16 @@ export type RouteConfig = Route & {
 };
 
 
+class NextBusError extends Error {
+  shouldRetry: boolean;
+
+  constructor(message, shouldRetry) {
+    super(message);
+    this.shouldRetry = shouldRetry;
+  }
+}
+
+
 /**
  * Fetch from the NextBus XML Feed using the given command, host, protocol, and query parameters,
  * and parse the resulting XML.
@@ -116,11 +126,17 @@ export default function nextbus({
         protocol,
         query: {
           a: agencyTag,
-          r: routeTag,
+          // r: routeTag,
           ...(includeNonUIDirections ? { verbose: '' } : {}),
           ...(!includePaths ? { terse: '' } : {}),
         },
       });
+      if (xml.body.Error) {
+        throw new NextBusError(
+          xml.body.Error[0]._.trim(),
+          xml.body.Error[0].$.shouldRetry === 'true',
+        );
+      }
       const stops = xml.body.route[0].stop.map(stop => ({
         ...stop.$,
         lat: Number.parseFloat(stop.$.lat),

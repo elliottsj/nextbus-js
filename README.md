@@ -11,7 +11,7 @@ npm install nextbus
 
 ### Usage
 ```js
-import nextbus from 'nextbus';
+import nextbus, { errorTypes } from 'nextbus';
 // or:
 // const nextbus = require('nextbus').default;
 
@@ -20,9 +20,10 @@ const nb = nextbus();
 // const nb = nextbus({
 //   host: 'webservices.nextbus.com', // optional; default is shown
 //   protocol: 'http:',               // optional; default is shown
+//   errorOnRateLimit: false          // optional; default is shown
 // });
 
-nb.getAgencies().then((agencies) => {
+nb.getAgencies().then((agencies, errors) => {
   expect(agencies).toEqual([
     {
       regionTitle: 'California-Northern',
@@ -40,6 +41,17 @@ nb.getAgencies().then((agencies) => {
       title: 'Asheville Redefines Transit',
     },
     // ...
+  ]);
+  expect(errors).toEqual([]);
+});
+
+nb.getRoute('ttc', '506').then((route, errors) => {
+  expect(route.tag).toBe('506');
+  expect(route.title).toBe('506-Carlton');
+  expect(errors).toEqual([
+    {
+      type: errorTypes.,
+    }
   ]);
 });
 ```
