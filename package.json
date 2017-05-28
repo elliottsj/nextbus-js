@@ -50,7 +50,7 @@
     "flow-typed": "^2.0.0",
     "isomorphic-fetch": "^2.2.1",
     "jest": "^18.0.0",
-    "pify": "^2.3.0",
+    "pify": "^3.0.0",
     "xml2js": "^0.4.17"
   },
   "jest": {
