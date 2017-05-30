@@ -1,4 +1,6 @@
 # nextbus-js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/elliottsj/nextbus-js.svg)](https://greenkeeper.io/)
 [![npm version](https://img.shields.io/npm/v/nextbus.svg)](https://www.npmjs.com/package/nextbus)
 [![Travis CI Build Status](https://travis-ci.org/elliottsj/nextbus-js.svg?branch=master)](https://travis-ci.org/elliottsj/nextbus-js)
 
